@@ -1,0 +1,71 @@
+name: Validate Color Palette Schema
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '*.json'
+      - 'palettes/**/*.json'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '*.json'
+      - 'palettes/**/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create JSON schema file
+        run: |
+          cat > schema.json << 'EOL'
+          {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "patternProperties": {
+              "^[A-Za-z0-9\\s-]+$": {
+                "type": "object",
+                "properties": {
+                  "hex": {
+                    "type": "string",
+                    "pattern": "^#[0-9A-Fa-f]{6}$"
+                  },
+                  "aliases": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "pattern": "^[a-zA-Z0-9_-]+$"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                  }
+                },
+                "required": ["hex", "aliases"],
+                "additionalProperties": false
+              }
+            },
+            "additionalProperties": false
+          }
+          EOL
+
+      - name: Validate JSON Schema
+        uses: cardinalby/schema-validator-action@v1
+        with:
+          schema: schema.json
+          file: color-palettes.json
+
+      - name: Check for duplicate aliases
+        run: |
+          # Extract all aliases and their protocols, then check for duplicates
+          jq -r 'to_entries | .[] | .key as $protocol | .value.aliases[] | [$protocol, .] | @tsv' color-palettes.json | \
+          awk '{
+            alias = tolower($2)  # Convert alias to lowercase for case-insensitive comparison
+            if (seen[alias]) {
+              printf "Error: Duplicate alias \"%s\" found in protocols \"%s\" and \"%s\"\n", 
+                     alias, seen[alias], $1
+              exit 1
+            }
+            seen[alias] = $1
+          }'
