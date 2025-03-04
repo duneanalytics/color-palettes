@@ -1,0 +1,39 @@
+name: Validate Color Palette Schema
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '*.json'
+      - 'palettes/**/*.json'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '*.json'
+      - 'palettes/**/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON Schema
+        uses: cardinalby/schema-validator-action@v1
+        with:
+          schema: schema.json
+          file: color-palettes.json
+
+      - name: Check for duplicate aliases
+        run: |
+          # Extract all aliases and their protocols, then check for duplicates
+          jq -r 'to_entries | .[] | .key as $protocol | .value.aliases[] | [$protocol, .] | @tsv' color-palettes.json | \
+          awk '{
+            alias = tolower($2)  # Convert alias to lowercase for case-insensitive comparison
+            if (seen[alias]) {
+              printf "Error: Duplicate alias \"%s\" found in protocols \"%s\" and \"%s\"\n", 
+                     alias, seen[alias], $1
+              exit 1
+            }
+            seen[alias] = $1
+          }'
