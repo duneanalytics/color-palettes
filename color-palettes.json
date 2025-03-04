@@ -353,7 +353,7 @@
   },
   "assethub": {
     "hex": "#321D47",
-    "aliases": ["assethub_kusama"]
+    "aliases": ["assethub"]
   },
   "litentry": {
     "hex": "#0CFEC0",
