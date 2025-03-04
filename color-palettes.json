@@ -1,0 +1,710 @@
+{
+  "Uniswap": {
+    "hex": "#F50DB4",
+    "aliases": ["uniswap"]
+  },
+  "Soneium": {
+    "hex": "#1a29d4",
+    "aliases": ["soneium"]
+  },
+  "Shape": {
+    "hex": "#000000",
+    "aliases": ["shape"]
+  },
+  "Fuel": {
+    "hex": "#00DB7D",
+    "aliases": ["fuel"]
+  },
+  "Lens": {
+    "hex": "#00CFFF",
+    "aliases": ["lens"]
+  },
+  "Apechain": {
+    "hex": "#0054FA",
+    "aliases": ["apechain"]
+  },
+  "Unichain": {
+    "hex": "#FC0FA4",
+    "aliases": ["unichain"]
+  },
+  "Berachain": {
+    "hex": "#451D07",
+    "aliases": ["berachain"]
+  },
+  "Sophon": {
+    "hex": "#0096F7",
+    "aliases": ["sophon"]
+  },
+  "Abstract": {
+    "hex": "#2fbf7a",
+    "aliases": ["abstract"]
+  },
+  "Ink": {
+    "hex": "#5E2AF3",
+    "aliases": ["ink"]
+  },
+  "Corn": {
+    "hex": "#F5911A",
+    "aliases": ["corn"]
+  },
+  "TON": {
+    "hex": "#0098EA",
+    "aliases": ["ton"]
+  },
+  "Sonic": {
+    "hex": "#F27A2C",
+    "aliases": ["sonic"]
+  },
+  "Boba": {
+    "hex": "#AEDB01",
+    "aliases": ["boba"]
+  },
+  "Viction": {
+    "hex": "#F8F6D7",
+    "aliases": ["viction"]
+  },
+  "Flare": {
+    "hex": "#E62058",
+    "aliases": ["flare"]
+  },
+  "Ronin": {
+    "hex": "#004DE5",
+    "aliases": ["ronin"]
+  },
+  "Kaia": {
+    "hex": "#BFF009",
+    "aliases": ["kaia"]
+  },
+  "NEAR": {
+    "hex": "#00EC97",
+    "aliases": ["near"]
+  },
+  "B3": {
+    "hex": "#3368EF",
+    "aliases": ["b3"]
+  },
+  "Worldcoin": {
+    "hex": "#4038DB",
+    "aliases": ["world"]
+  },
+  "Stellar": {
+    "hex": "#FDD521",
+    "aliases": ["stellar"]
+  },
+  "SEI (Cosmos)": {
+    "hex": "#B52A2A",
+    "aliases": ["sei"]
+  },
+  "laos": {
+    "hex": "#d7ff5e",
+    "aliases": ["laos"]
+  },
+  "peaq": {
+    "hex": "#6666fe",
+    "aliases": ["peaq"]
+  },
+  "coretime": {
+    "hex": "#E6007A",
+    "aliases": ["coretime"]
+  },
+  "Arbitrum Nova": {
+    "hex": "#EF8220",
+    "aliases": ["nova"]
+  },
+  "People": {
+    "hex": "#E6007A",
+    "aliases": ["people"]
+  },
+  "Starknet": {
+    "hex": "#E77786",
+    "aliases": ["starknet"]
+  },
+  "SEI": {
+    "hex": "#B52A2A",
+    "aliases": ["SEI"]
+  },
+  "Sepolia": {
+    "hex": "#14308B",
+    "aliases": ["sepolia"]
+  },
+  "Bob": {
+    "hex": "#F25D00",
+    "aliases": ["bob"]
+  },
+  "Blast": {
+    "hex": "#FCFC03",
+    "aliases": ["blast"]
+  },
+  "Mantle": {
+    "hex": "#68CDB0",
+    "aliases": ["mantle"]
+  },
+  "MODE": {
+    "hex": "#DFFE00",
+    "aliases": ["mode"]
+  },
+  "DEGEN": {
+    "hex": "#A36EFE",
+    "aliases": ["degen"]
+  },
+  "Linea": {
+    "hex": "#61DFFF",
+    "aliases": ["linea"]
+  },
+  "Polygon zkEVM": {
+    "hex": "#A128C5",
+    "aliases": ["zkevm"]
+  },
+  "Tron": {
+    "hex": "#EB0029",
+    "aliases": ["tron"]
+  },
+  "Kusama": {
+    "hex": "#e6007a",
+    "aliases": ["kusama"]
+  },
+  "Polkadot": {
+    "hex": "#FF2670",
+    "aliases": ["polkadot"]
+  },
+  "Aptos": {
+    "hex": "#00c296",
+    "aliases": ["aptos"]
+  },
+  "Scroll": {
+    "hex": "#EBC28E",
+    "aliases": ["scroll"]
+  },
+  "Beacon": {
+    "hex": "#F1B533",
+    "aliases": ["beacon"]
+  },
+  "Zora": {
+    "hex": "#3A6DEB",
+    "aliases": ["zora"]
+  },
+  "ZKsync": {
+    "hex": "#1E69FF",
+    "aliases": ["zksync"]
+  },
+  "Base": {
+    "hex": "#0052FF",
+    "aliases": ["base"]
+  },
+  "Celo": {
+    "hex": "#F0F332",
+    "aliases": ["celo"]
+  },
+  "Bitcoin": {
+    "hex": "#F7931A",
+    "aliases": ["bitcoin"]
+  },
+  "Fantom": {
+    "hex": "#1969FF",
+    "aliases": ["fantom"]
+  },
+  "Avalanche": {
+    "hex": "#E84142",
+    "aliases": ["avalanche_c"]
+  },
+  "Arbitrum": {
+    "hex": "#12AAFF",
+    "aliases": ["arbitrum"]
+  },
+  "Solana": {
+    "hex": "#9945FF",
+    "aliases": ["solana"]
+  },
+  "bnb": {
+    "hex": "#F3BA2F",
+    "aliases": ["bnb"]
+  },
+  "Optimism": {
+    "hex": "#FF0420",
+    "aliases": ["optimism"]
+  },
+  "mint": {
+    "hex": "#31bf54",
+    "aliases": ["mint"]
+  },
+  "zero_network": {
+    "hex": "#FE5161",
+    "aliases": ["zero_network"]
+  },
+  "xai": {
+    "hex": "#FD0132",
+    "aliases": ["xai"]
+  },
+  "wemix": {
+    "hex": "#5759F7",
+    "aliases": ["wemix"]
+  },
+  "swellchain": {
+    "hex": "#2f43ec",
+    "aliases": ["swellchain"]
+  },
+  "superposition": {
+    "hex": "#2ff5d6",
+    "aliases": ["superposition"]
+  },
+  "redstone": {
+    "hex": "#AE0822",
+    "aliases": ["redstone"]
+  },
+  "rari": {
+    "hex": "#963BFF",
+    "aliases": ["rari"]
+  },
+  "proof_of_play": {
+    "hex": "#6c41ff",
+    "aliases": ["proof_of_play"]
+  },
+  "proof_of_play_boss": {
+    "hex": "#6c41ff",
+    "aliases": ["proof_of_play_boss"]
+  },
+  "omni": {
+    "hex": "#1767f3",
+    "aliases": ["omni"]
+  },
+  "metis": {
+    "hex": "#04d1ff",
+    "aliases": ["metis"]
+  },
+  "monad_testnet": {
+    "hex": "#836EF9",
+    "aliases": ["monad_testnet"]
+  },
+  "lisk": {
+    "hex": "#4a36b4",
+    "aliases": ["lisk"]
+  },
+  "hychain": {
+    "hex": "#fa86ca",
+    "aliases": ["hychain"]
+  },
+  "ham": {
+    "hex": "#eb4747",
+    "aliases": ["ham"]
+  },
+  "funkichain": {
+    "hex": "#b2eb15",
+    "aliases": ["funkichain"]
+  },
+  "cyber": {
+    "hex": "#0bdc0e",
+    "aliases": ["cyber"]
+  },
+  "avalanche_fuji": {
+    "hex": "#ffc3c3",
+    "aliases": ["avalanche_fuji"]
+  },
+  "ancient8": {
+    "hex": "#D8FF76",
+    "aliases": ["ancient8"]
+  },
+  "assethub_kusama": {
+    "hex": "#321D47",
+    "aliases": ["assethub_kusama"]
+  },
+  "zeitgeist": {
+    "hex": "#0001FE",
+    "aliases": ["zeitgeist"]
+  },
+  "parallel": {
+    "hex": "#6F73F6",
+    "aliases": ["parallel"]
+  },
+  "people_kusama": {
+    "hex": "#E6007A",
+    "aliases": ["people_kusama"]
+  },
+  "darwinia": {
+    "hex": "#FF0083",
+    "aliases": ["darwinia"]
+  },
+  "kilt": {
+    "hex": "#440030",
+    "aliases": ["kilt"]
+  },
+  "integritee": {
+    "hex": "#30DAFF",
+    "aliases": ["integritee"]
+  },
+  "crust": {
+    "hex": "#FA8B15",
+    "aliases": ["crust"]
+  },
+  "composable": {
+    "hex": "#FF6600",
+    "aliases": ["composable"]
+  },
+  "bridgehub_kusama": {
+    "hex": "#321D47",
+    "aliases": ["bridgehub_kusama"]
+  },
+  "aventus": {
+    "hex": "#3101AD",
+    "aliases": ["aventus"]
+  },
+  "t3rn": {
+    "hex": "#DB4ED9",
+    "aliases": ["t3rm"]
+  },
+  "assethub": {
+    "hex": "#321D47",
+    "aliases": ["assethub"]
+  },
+  "litentry": {
+    "hex": "#0CFEC0",
+    "aliases": ["litentry"]
+  },
+  "ajuna": {
+    "hex": "#146BB5",
+    "aliases": ["ajuna"]
+  },
+  "Hashed": {
+    "hex": "#9146E6",
+    "aliases": ["hashed"]
+  },
+  "mythos": {
+    "hex": "#FF0037",
+    "aliases": ["mythos"]
+  },
+  "hyperbridge": {
+    "hex": "#FC00FF",
+    "aliases": ["hyperbridge"]
+  },
+  "energywebx": {
+    "hex": "#15E8FF",
+    "aliases": ["energywebx"]
+  },
+  "bitgreen": {
+    "hex": "#C0FF04",
+    "aliases": ["bitgreen"]
+  },
+  "logion": {
+    "hex": "#CE147E",
+    "aliases": ["logion"]
+  },
+  "neuroweb": {
+    "hex": "#4739D8",
+    "aliases": ["neuroweb"]
+  },
+  "unique": {
+    "hex": "#40BCFF",
+    "aliases": ["unique"]
+  },
+  "polkadex": {
+    "hex": "#E6007A",
+    "aliases": ["polkadex"]
+  },
+  "phala": {
+    "hex": "#CDFA50",
+    "aliases": ["phala"]
+  },
+  "pendulum": {
+    "hex": "#1EE7DF",
+    "aliases": ["pendulum"]
+  },
+  "polimec": {
+    "hex": "#CBFFA0",
+    "aliases": ["polimec"]
+  },
+  "manta": {
+    "hex": "#0091FF",
+    "aliases": ["manta"]
+  },
+  "bridgehub": {
+    "hex": "#E6007A",
+    "aliases": ["bridgehub"]
+  },
+  "coretime_kusama": {
+    "hex": "#E6007A",
+    "aliases": ["coretime_kusama"]
+  },
+  "nodle": {
+    "hex": "#A03BDF",
+    "aliases": ["nodle"]
+  },
+  "frequency": {
+    "hex": "#19455E",
+    "aliases": ["frequency"]
+  },
+  "Astar": {
+    "hex": "#6151D3",
+    "aliases": ["astar"]
+  },
+  "invarch": {
+    "hex": "#F7D365",
+    "aliases": ["invarch"]
+  },
+  "collectives": {
+    "hex": "#E6007B",
+    "aliases": ["collectives"]
+  },
+  "centrifuge": {
+    "hex": "#E3C00A",
+    "aliases": ["centrifuge"]
+  },
+  "acala": {
+    "hex": "#E40C5B",
+    "aliases": ["acala"]
+  },
+  "Bifrost": {
+    "hex": "#69B7FA",
+    "aliases": ["bifrost"]
+  },
+  "Moonbeam": {
+    "hex": "#07D3BA",
+    "aliases": ["moonbeam"]
+  },
+  "Hydradx": {
+    "hex": "#E2407C",
+    "aliases": ["hyrdradx"]
+  },
+  "Interlay": {
+    "hex": "#0CF4EB",
+    "aliases": ["interlay"]
+  },
+  "Optimism Legacy chain (OVM1)": {
+    "hex": "#FFDCE0",
+    "aliases": ["optimism_legacy_ovm1"]
+  },
+  "Goerli": {
+    "hex": "#DBE2F0",
+    "aliases": ["goerli"]
+  },
+  "Gnosis": {
+    "hex": "#486858",
+    "aliases": ["gnosis"]
+  },
+  "Polygon": {
+    "hex": "#8A46FF",
+    "aliases": ["polygon"]
+  },
+  "Ethereum": {
+    "hex": "#88AAF1",
+    "aliases": ["ethereum"]
+  },
+  "CryptoPunks": {
+    "hex": "#688494",
+    "aliases": ["cryptopunks"]
+  },
+  "OpenSea": {
+    "hex": "#2884E4",
+    "aliases": ["opensea"]
+  },
+  "Blur": {
+    "hex": "#FF8404",
+    "aliases": ["blur"]
+  },
+  "Gem": {
+    "hex": "#F07CA0",
+    "aliases": ["gem"]
+  },
+  "LooksRare": {
+    "hex": "#10E464",
+    "aliases": ["looksrare"]
+  },
+  "X2Y2": {
+    "hex": "#14DBFC",
+    "aliases": ["x2y2"]
+  },
+  "Sudoswap": {
+    "hex": "#C0BCFC",
+    "aliases": ["sudoswap"]
+  },
+  "Rarible": {
+    "hex": "#FFDC04",
+    "aliases": ["rarible"]
+  },
+  "Element": {
+    "hex": "#08BC64",
+    "aliases": ["element"]
+  },
+  "KnownOrigin": {
+    "hex": "#883494",
+    "aliases": ["knownorigin"]
+  },
+  "Foundation": {
+    "hex": "#080404",
+    "aliases": ["foundation"]
+  },
+  "RarityGarden": {
+    "hex": "#FFB4CC",
+    "aliases": ["raritygarden"]
+  },
+  "TinyAstro": {
+    "hex": "#70548C",
+    "aliases": ["tinyastro"]
+  },
+  "NFTInit": {
+    "hex": "#802DC6",
+    "aliases": ["nftinit"]
+  },
+  "OKX": {
+    "hex": "#080404",
+    "aliases": ["okx"]
+  },
+  "Flip": {
+    "hex": "#302C2C",
+    "aliases": ["flip"]
+  },
+  "Archipelago": {
+    "hex": "#377AAD",
+    "aliases": ["archipelago"]
+  },
+  "BitKeep": {
+    "hex": "#7824FC",
+    "aliases": ["bitkeep"]
+  },
+  "AlphaSharks": {
+    "hex": "#10142C",
+    "aliases": ["alphasharks"]
+  },
+  "Genie": {
+    "hex": "#1864FC",
+    "aliases": ["genie"]
+  },
+  "MagicEden": {
+    "hex": "#BF79F5",
+    "aliases": ["magiceden"]
+  },
+  "SuperRare": {
+    "hex": "#000000",
+    "aliases": ["superrare"]
+  },
+  "Reservoir": {
+    "hex": "#7054CC",
+    "aliases": ["reservoir"]
+  },
+  "Lido": {
+    "hex": "#4DB0F2",
+    "aliases": ["lido"]
+  },
+  "Coinbase": {
+    "hex": "#0854FC",
+    "aliases": ["coinbase"]
+  },
+  "Kraken": {
+    "hex": "#5844DC",
+    "aliases": ["kraken"]
+  },
+  "Binance": {
+    "hex": "#F8BC0C",
+    "aliases": ["binance"]
+  },
+  "stakefish": {
+    "hex": "#84DC0C",
+    "aliases": ["stakefish"]
+  },
+  "BitcoinSuisse": {
+    "hex": "#CC1028",
+    "aliases": ["bitcoinsuisse"]
+  },
+  "Figment": {
+    "hex": "#FFF49C",
+    "aliases": ["figment"]
+  },
+  "RocketPool": {
+    "hex": "#FB8562",
+    "aliases": ["rocketpool"]
+  },
+  "Celsius": {
+    "hex": "#101464",
+    "aliases": ["celsius"]
+  },
+  "AbyssFinance": {
+    "hex": "#284CC4",
+    "aliases": ["abyss"]
+  },
+  "Huobi": {
+    "hex": "#088CD4",
+    "aliases": ["huobi"]
+  },
+  "FraxFinance": {
+    "hex": "#080404",
+    "aliases": ["frax"]
+  },
+  "Stakewise": {
+    "hex": "#9082B3",
+    "aliases": ["stakewise"]
+  },
+  "Bitstamp": {
+    "hex": "#08FC9C",
+    "aliases": ["bitstamp"]
+  },
+  "Stakr": {
+    "hex": "#386FE4",
+    "aliases": ["stakr", "ankr"]
+  },
+  "InfStones": {
+    "hex": "#F0B008",
+    "aliases": ["infstones"]
+  },
+  "StakeHound": {
+    "hex": "#08FCFC",
+    "aliases": ["stakehound"]
+  },
+  "Gate": {
+    "hex": "#20E4A4",
+    "aliases": ["gate"]
+  },
+  "Kucoin": {
+    "hex": "#28CC94",
+    "aliases": ["kucoin"]
+  },
+  "CREAM": {
+    "hex": "#70E4DC",
+    "aliases": ["cream"]
+  },
+  "PieDAO": {
+    "hex": "#B81CDC",
+    "aliases": ["piedao"]
+  },
+  "Bitfinex": {
+    "hex": "#18B48C",
+    "aliases": ["bitfinex"]
+  },
+  "WEXExchange": {
+    "hex": "#808CC4",
+    "aliases": ["wex"]
+  },
+  "SharedStake": {
+    "hex": "#E80454",
+    "aliases": ["sharedstake"]
+  },
+  "Poloniex": {
+    "hex": "#088484",
+    "aliases": ["poloniex"]
+  },
+  "StakewiseSolos": {
+    "hex": "#9082B3",
+    "aliases": ["stakewisesolos"]
+  },
+  "CakeDeFi": {
+    "hex": "#6014FC",
+    "aliases": ["cakedefi"]
+  },
+  "Harbour": {
+    "hex": "#68B4A4",
+    "aliases": ["harbour"]
+  },
+  "etherfi": {
+    "hex": "#2F1769",
+    "aliases": ["etherfi"]
+  },
+  "Renzo": {
+    "hex": "#C5FE5B",
+    "aliases": ["renzo"]
+  },
+  "Swell": {
+    "hex": "#2040CD",
+    "aliases": ["swell"]
+  },
+  "Everstake": {
+    "hex": "#898989",
+    "aliases": ["everstake"]
+  }
+}
