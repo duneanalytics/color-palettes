@@ -487,6 +487,10 @@
     "hex": "#88AAF1",
     "aliases": ["ethereum"]
   },
+  "Ethernity": {
+    "hex": "#2bdac8",
+    "aliases": ["ern", "ethernity"]
+  },
   "CryptoPunks": {
     "hex": "#688494",
     "aliases": ["cryptopunks"]
