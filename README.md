@@ -37,20 +37,20 @@ The color palettes are maintained in a JSON format with the following structure:
 
 ### Example Schema
 
-```
+```json
 {
   "Ethereum": {
     "hex": "#627EEA",
     "aliases": ["eth", "weth", "ethereum"]
-    },
+  },
   "Polygon": {
     "hex": "#8247E5",
     "aliases": ["matic", "polygon"]
-    },
+  },
   "Uniswap": {
     "hex": "#FF007A",
     "aliases": ["uni", "uniswap_v2", "uniswap_v3"]
-    }
+  }
 }
 ```
 
@@ -64,7 +64,7 @@ Color Palettes are automatically applied to your visualisations when protocols o
 
 Considering the following schema
 
-```
+```json
 {
   "Ethereum": {
     "hex": "#82828",
