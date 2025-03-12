@@ -212,8 +212,8 @@
     "aliases": ["arbitrum"]
   },
   "Solana": {
-    "hex": "#9945FF",
-    "aliases": ["solana"]
+    "hex": "#14F195",
+    "aliases": ["solana", "sol"]
   },
   "bnb": {
     "hex": "#F3BA2F",
@@ -485,7 +485,7 @@
   },
   "Ethereum": {
     "hex": "#88AAF1",
-    "aliases": ["ethereum"]
+    "aliases": ["ethereum", "eth", "weth"]
   },
   "Ethernity": {
     "hex": "#2bdac8",
