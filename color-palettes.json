@@ -599,6 +599,14 @@
     "hex": "#F8BC0C",
     "aliases": ["binance"]
   },
+  "Bybit": {
+    "hex": "#F7A600",
+    "aliases": ["bybit"]
+  },
+  "Upbit": {
+    "hex": "#013F97",
+    "aliases": ["upbit"]
+  },
   "stakefish": {
     "hex": "#84DC0C",
     "aliases": ["stakefish"]
