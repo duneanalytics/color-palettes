@@ -93,7 +93,7 @@
   },
   "SEI (Cosmos)": {
     "hex": "#B52A2A",
-    "aliases": ["sei", "sei network"]
+    "aliases": ["sei cosmos", "sei network"]
   },
   "laos": {
     "hex": "#d7ff5e",
