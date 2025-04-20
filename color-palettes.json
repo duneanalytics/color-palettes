@@ -247,9 +247,9 @@
     "hex": "#AE0822",
     "aliases": ["redstone"]
   },
-  "Rari": {
+  "RARI Chain": {
     "hex": "#963BFF",
-    "aliases": ["rari"]
+    "aliases": ["rari_chain"]
   },
   "Proof of Play": {
     "hex": "#6c41ff",
