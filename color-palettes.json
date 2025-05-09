@@ -714,5 +714,9 @@
   "Everstake": {
     "hex": "#898989",
     "aliases": ["everstake"]
+  },
+  "Kiln": {
+    "hex": "#FF6521",
+    "aliases": ["kiln", "kilnfi"]
   }
 }
