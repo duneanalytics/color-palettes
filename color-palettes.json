@@ -1,7 +1,7 @@
 {
   "Uniswap": {
     "hex": "#F50DB4",
-    "aliases": ["uniswap"]
+    "aliases": ["uniswap", "uni"]
   },
   "Soneium": {
     "hex": "#1a29d4",
@@ -21,7 +21,7 @@
   },
   "Apechain": {
     "hex": "#0054FA",
-    "aliases": ["apechain"]
+    "aliases": ["apechain", "ape"]
   },
   "Unichain": {
     "hex": "#FC0FA4",
@@ -69,7 +69,7 @@
   },
   "Ronin": {
     "hex": "#004DE5",
-    "aliases": ["ronin"]
+    "aliases": ["ronin", "ron"]
   },
   "Kaia": {
     "hex": "#BFF009",
@@ -89,11 +89,11 @@
   },
   "Stellar": {
     "hex": "#FDD521",
-    "aliases": ["stellar"]
+    "aliases": ["stellar", "xlm"]
   },
   "SEI (Cosmos)": {
     "hex": "#B52A2A",
-    "aliases": ["sei cosmos"]
+    "aliases": ["sei cosmos", "sei network"]
   },
   "laos": {
     "hex": "#d7ff5e",
@@ -117,11 +117,7 @@
   },
   "Starknet": {
     "hex": "#E77786",
-    "aliases": ["starknet"]
-  },
-  "SEI": {
-    "hex": "#B52A2A",
-    "aliases": ["SEI"]
+    "aliases": ["starknet", "strk"]
   },
   "Sepolia": {
     "hex": "#14308B",
@@ -137,11 +133,11 @@
   },
   "Mantle": {
     "hex": "#68CDB0",
-    "aliases": ["mantle"]
+    "aliases": ["mantle", "mnt"]
   },
-  "MODE": {
+  "Mode": {
     "hex": "#DFFE00",
-    "aliases": ["mode"]
+    "aliases": ["mode", "mode network"]
   },
   "DEGEN": {
     "hex": "#A36EFE",
@@ -157,7 +153,7 @@
   },
   "Tron": {
     "hex": "#EB0029",
-    "aliases": ["tron"]
+    "aliases": ["tron", "trx"]
   },
   "Kusama": {
     "hex": "#e6007a",
@@ -165,11 +161,11 @@
   },
   "Polkadot": {
     "hex": "#FF2670",
-    "aliases": ["polkadot"]
+    "aliases": ["polkadot", "dot"]
   },
   "Aptos": {
     "hex": "#00c296",
-    "aliases": ["aptos"]
+    "aliases": ["aptos", "apt"]
   },
   "Scroll": {
     "hex": "#EBC28E",
@@ -197,37 +193,37 @@
   },
   "Bitcoin": {
     "hex": "#F7931A",
-    "aliases": ["bitcoin"]
+    "aliases": ["bitcoin", "btc"]
   },
   "Fantom": {
     "hex": "#1969FF",
-    "aliases": ["fantom"]
+    "aliases": ["fantom", "ftm"]
   },
   "Avalanche": {
     "hex": "#E84142",
-    "aliases": ["avalanche_c"]
+    "aliases": ["avalanche_c", "avalanche", "avalanche c-chain", "avax"]
   },
   "Arbitrum": {
     "hex": "#12AAFF",
-    "aliases": ["arbitrum"]
+    "aliases": ["arbitrum", "arb"]
   },
   "Solana": {
     "hex": "#14F195",
     "aliases": ["solana", "sol"]
   },
-  "bnb": {
+  "BNB": {
     "hex": "#F3BA2F",
-    "aliases": ["bnb"]
+    "aliases": ["bnb", "bsc"]
   },
   "Optimism": {
     "hex": "#FF0420",
-    "aliases": ["optimism"]
+    "aliases": ["optimism", "op"]
   },
-  "mint": {
+  "Mint": {
     "hex": "#31bf54",
     "aliases": ["mint"]
   },
-  "zero_network": {
+  "Zero Network": {
     "hex": "#FE5161",
     "aliases": ["zero_network"]
   },
@@ -235,115 +231,115 @@
     "hex": "#FD0132",
     "aliases": ["xai"]
   },
-  "wemix": {
+  "Wemix": {
     "hex": "#5759F7",
     "aliases": ["wemix"]
   },
-  "swellchain": {
+  "Swellchain": {
     "hex": "#2f43ec",
     "aliases": ["swellchain"]
   },
-  "superposition": {
+  "Superposition": {
     "hex": "#2ff5d6",
     "aliases": ["superposition"]
   },
-  "redstone": {
+  "Redstone": {
     "hex": "#AE0822",
     "aliases": ["redstone"]
   },
-  "rari": {
+  "RARI Chain": {
     "hex": "#963BFF",
-    "aliases": ["rari"]
+    "aliases": ["rari_chain"]
   },
-  "proof_of_play": {
+  "Proof of Play": {
     "hex": "#6c41ff",
     "aliases": ["proof_of_play"]
   },
-  "proof_of_play_boss": {
+  "Proof of Play Boss": {
     "hex": "#6c41ff",
     "aliases": ["proof_of_play_boss"]
   },
-  "omni": {
+  "Omni": {
     "hex": "#1767f3",
     "aliases": ["omni"]
   },
-  "metis": {
+  "Metis": {
     "hex": "#04d1ff",
     "aliases": ["metis"]
   },
-  "monad_testnet": {
+  "Monad Testnet": {
     "hex": "#836EF9",
     "aliases": ["monad_testnet"]
   },
-  "lisk": {
+  "Lisk": {
     "hex": "#4a36b4",
     "aliases": ["lisk"]
   },
-  "hychain": {
+  "Hychain": {
     "hex": "#fa86ca",
     "aliases": ["hychain"]
   },
-  "ham": {
+  "Ham": {
     "hex": "#eb4747",
     "aliases": ["ham"]
   },
-  "funkichain": {
+  "Funkichain": {
     "hex": "#b2eb15",
     "aliases": ["funkichain"]
   },
-  "cyber": {
+  "Cyber": {
     "hex": "#0bdc0e",
     "aliases": ["cyber"]
   },
-  "avalanche_fuji": {
+  "Avalanche Fuji": {
     "hex": "#ffc3c3",
     "aliases": ["avalanche_fuji"]
   },
-  "ancient8": {
+  "Ancient8": {
     "hex": "#D8FF76",
     "aliases": ["ancient8"]
   },
-  "assethub_kusama": {
+  "AssetHub Kusama": {
     "hex": "#321D47",
     "aliases": ["assethub_kusama"]
   },
-  "zeitgeist": {
+  "Zeitgeist": {
     "hex": "#0001FE",
     "aliases": ["zeitgeist"]
   },
-  "parallel": {
+  "Parallel": {
     "hex": "#6F73F6",
     "aliases": ["parallel"]
   },
-  "people_kusama": {
+  "People Kusama": {
     "hex": "#E6007A",
     "aliases": ["people_kusama"]
   },
-  "darwinia": {
+  "Darwinia": {
     "hex": "#FF0083",
     "aliases": ["darwinia"]
   },
-  "kilt": {
+  "Kilt": {
     "hex": "#440030",
     "aliases": ["kilt"]
   },
-  "integritee": {
+  "Integritee": {
     "hex": "#30DAFF",
     "aliases": ["integritee"]
   },
-  "crust": {
+  "Crust": {
     "hex": "#FA8B15",
     "aliases": ["crust"]
   },
-  "composable": {
+  "Composable": {
     "hex": "#FF6600",
     "aliases": ["composable"]
   },
-  "bridgehub_kusama": {
+  "BridgeHub Kusama": {
     "hex": "#321D47",
     "aliases": ["bridgehub_kusama"]
   },
-  "aventus": {
+  "Aventus": {
     "hex": "#3101AD",
     "aliases": ["aventus"]
   },
@@ -351,15 +347,15 @@
     "hex": "#DB4ED9",
     "aliases": ["t3rm"]
   },
-  "assethub": {
+  "AssetHub": {
     "hex": "#321D47",
     "aliases": ["assethub"]
   },
-  "litentry": {
+  "Litentry": {
     "hex": "#0CFEC0",
     "aliases": ["litentry"]
   },
-  "ajuna": {
+  "Ajuna": {
     "hex": "#146BB5",
     "aliases": ["ajuna", "ajuna network"]
   },
@@ -367,27 +363,27 @@
     "hex": "#9146E6",
     "aliases": ["hashed"]
   },
-  "mythos": {
+  "Mythos": {
     "hex": "#FF0037",
     "aliases": ["mythos"]
   },
-  "hyperbridge": {
+  "Hyperbridge": {
     "hex": "#FC00FF",
     "aliases": ["hyperbridge"]
   },
-  "energywebx": {
+  "Energy Web": {
     "hex": "#15E8FF",
     "aliases": ["energywebx"]
   },
-  "bitgreen": {
+  "Bitgreen": {
     "hex": "#C0FF04",
     "aliases": ["bitgreen"]
   },
-  "logion": {
+  "Logion": {
     "hex": "#CE147E",
     "aliases": ["logion"]
   },
-  "neuroweb": {
+  "NeuroWeb": {
     "hex": "#4739D8",
     "aliases": ["neuroweb"]
   },
@@ -395,15 +391,15 @@
     "hex": "#40BCFF",
     "aliases": ["unique"]
   },
-  "polkadex": {
+  "Polkadex": {
     "hex": "#E6007A",
     "aliases": ["polkadex"]
   },
-  "phala": {
+  "Phala": {
     "hex": "#CDFA50",
-    "aliases": ["phala"]
+    "aliases": ["phala", "phala network"]
   },
-  "pendulum": {
+  "Pendulum": {
     "hex": "#1EE7DF",
     "aliases": ["pendulum"]
   },
@@ -411,11 +407,11 @@
     "hex": "#CBFFA0",
     "aliases": ["polimec"]
   },
-  "manta": {
+  "Manta": {
     "hex": "#0091FF",
     "aliases": ["manta"]
   },
-  "bridgehub": {
+  "BridgeHub": {
     "hex": "#E6007A",
     "aliases": ["bridgehub"]
   },
@@ -423,11 +419,11 @@
     "hex": "#E6007A",
     "aliases": ["coretime_kusama"]
   },
-  "nodle": {
+  "Nodle": {
     "hex": "#A03BDF",
     "aliases": ["nodle"]
   },
-  "frequency": {
+  "Frequency": {
     "hex": "#19455E",
     "aliases": ["frequency"]
   },
@@ -435,7 +431,7 @@
     "hex": "#6151D3",
     "aliases": ["astar"]
   },
-  "invarch": {
+  "InvArch": {
     "hex": "#F7D365",
     "aliases": ["invarch"]
   },
@@ -443,11 +439,11 @@
     "hex": "#E6007B",
     "aliases": ["collectives"]
   },
-  "centrifuge": {
+  "Centrifuge": {
     "hex": "#E3C00A",
     "aliases": ["centrifuge"]
   },
-  "acala": {
+  "Acala": {
     "hex": "#E40C5B",
     "aliases": ["acala"]
   },
@@ -509,7 +505,7 @@
   },
   "LooksRare": {
     "hex": "#10E464",
-    "aliases": ["looksrare"]
+    "aliases": ["looksrare", "looks"]
   },
   "X2Y2": {
     "hex": "#14DBFC",
@@ -517,11 +513,11 @@
   },
   "Sudoswap": {
     "hex": "#C0BCFC",
-    "aliases": ["sudoswap"]
+    "aliases": ["sudoswap", "sudo"]
   },
   "Rarible": {
     "hex": "#FFDC04",
-    "aliases": ["rarible"]
+    "aliases": ["rarible", "rari"]
   },
   "Element": {
     "hex": "#08BC64",
@@ -613,7 +609,7 @@
   },
   "BitcoinSuisse": {
     "hex": "#CC1028",
-    "aliases": ["bitcoinsuisse"]
+    "aliases": ["bitcoinsuisse", "bitcoin suisse"]
   },
   "Figment": {
     "hex": "#FFF49C",
