@@ -60,7 +60,7 @@ The color palettes are maintained in a JSON format with the following structure:
 
 Color Palettes are automatically applied to your visualisations when protocols or chains are detected in your query results, as long as they match any of the aliases on the schema (lowercased). This means you don't need to manually specify colors in most cases.
 
-**A pratical example:**
+**A practical example:**
 
 Considering the following schema
 
