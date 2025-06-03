@@ -483,6 +483,10 @@
     "hex": "#88AAF1",
     "aliases": ["ethereum", "eth", "weth"]
   },
+  "EthereumNameService": {
+    "hex": "#0080BC",
+    "aliases": ["ens", "ethereum name service"]
+  },
   "Ethernity": {
     "hex": "#2bdac8",
     "aliases": ["ern", "ethernity"]
