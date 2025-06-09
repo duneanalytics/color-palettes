@@ -3,6 +3,10 @@
     "hex": "#F50DB4",
     "aliases": ["uniswap", "uni"]
   },
+  "1inch": {
+    "hex": "#0077FF",
+    "aliases": ["1inch", "oneinch", "inch"]
+  },
   "Soneium": {
     "hex": "#1a29d4",
     "aliases": ["soneium"]
