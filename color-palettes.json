@@ -718,5 +718,13 @@
   "Kiln": {
     "hex": "#FF6521",
     "aliases": ["kiln", "kilnfi"]
+  },
+  "Pump.fun": {
+    "hex": "#67ECA3",
+    "aliases": ["pumpfun", "pumpdotfun", "pump"]
+  },
+  "Four.meme": {
+    "hex": "#46FF42",
+    "aliases": ["four.meme", "four"]
   }
 }
