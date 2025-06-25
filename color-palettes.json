@@ -205,7 +205,7 @@
   },
   "Arbitrum": {
     "hex": "#12AAFF",
-    "aliases": ["arbitrum", "arb"]
+    "aliases": ["arbitrum", "arbitrum one", "arb"]
   },
   "Solana": {
     "hex": "#14F195",
@@ -217,7 +217,7 @@
   },
   "Optimism": {
     "hex": "#FF0420",
-    "aliases": ["optimism", "op"]
+    "aliases": ["optimism", "op mainnet", "op"]
   },
   "Mint": {
     "hex": "#31bf54",
@@ -477,7 +477,7 @@
   },
   "Polygon": {
     "hex": "#8A46FF",
-    "aliases": ["polygon"]
+    "aliases": ["polygon", "polygon pos"]
   },
   "Ethereum": {
     "hex": "#88AAF1",
