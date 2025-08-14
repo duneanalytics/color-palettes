@@ -3,6 +3,10 @@
     "hex": "#F50DB4",
     "aliases": ["uniswap", "uni"]
   },
+  "1inch": {
+    "hex": "#0077FF",
+    "aliases": ["1inch", "oneinch", "inch"]
+  },
   "Soneium": {
     "hex": "#1a29d4",
     "aliases": ["soneium"]
@@ -205,7 +209,7 @@
   },
   "Arbitrum": {
     "hex": "#12AAFF",
-    "aliases": ["arbitrum", "arb"]
+    "aliases": ["arbitrum", "arbitrum one", "arb"]
   },
   "Solana": {
     "hex": "#14F195",
@@ -217,7 +221,7 @@
   },
   "Optimism": {
     "hex": "#FF0420",
-    "aliases": ["optimism", "op"]
+    "aliases": ["optimism", "op mainnet", "op"]
   },
   "Mint": {
     "hex": "#31bf54",
@@ -238,6 +242,10 @@
   "Swellchain": {
     "hex": "#2f43ec",
     "aliases": ["swellchain"]
+  },
+  "Superfluid": {
+    "hex": "#85EE1D",
+    "aliases": ["superfluid"]
   },
   "Superposition": {
     "hex": "#2ff5d6",
@@ -415,6 +423,10 @@
     "hex": "#E6007A",
     "aliases": ["bridgehub"]
   },
+  "Phi": {
+    "hex": "#171717",
+    "aliases": ["phi", "phibox", "phi protocol"]
+  },
   "coretime_kusama": {
     "hex": "#E6007A",
     "aliases": ["coretime_kusama"]
@@ -477,11 +489,15 @@
   },
   "Polygon": {
     "hex": "#8A46FF",
-    "aliases": ["polygon"]
+    "aliases": ["polygon", "polygon pos"]
   },
   "Ethereum": {
     "hex": "#88AAF1",
     "aliases": ["ethereum", "eth", "weth"]
+  },
+  "EthereumNameService": {
+    "hex": "#0080BC",
+    "aliases": ["ens", "ethereum name service"]
   },
   "Ethernity": {
     "hex": "#2bdac8",
