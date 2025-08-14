@@ -243,6 +243,10 @@
     "hex": "#2f43ec",
     "aliases": ["swellchain"]
   },
+  "Superfluid": {
+    "hex": "#85EE1D",
+    "aliases": ["superfluid"]
+  },
   "Superposition": {
     "hex": "#2ff5d6",
     "aliases": ["superposition"]
