@@ -419,6 +419,10 @@
     "hex": "#E6007A",
     "aliases": ["bridgehub"]
   },
+  "Phi": {
+    "hex": "#171717",
+    "aliases": ["phi", "phibox", "phi protocol"]
+  },
   "coretime_kusama": {
     "hex": "#E6007A",
     "aliases": ["coretime_kusama"]
