@@ -734,5 +734,41 @@
   "Kiln": {
     "hex": "#FF6521",
     "aliases": ["kiln", "kilnfi"]
+  },
+  "Plume": {
+    "hex": "#FE3C00",
+    "aliases": ["plume"]
+  },
+  "HyperEVM": {
+    "hex": "#98FDE5",
+    "aliases": ["hyperevm"]
+  },
+  "Sei": {
+    "hex": "#9E201B",
+    "aliases": ["sei"]
+  },
+  "Taiko": {
+    "hex": "#E81899",
+    "aliases": ["taiko"]
+  },
+  "Flow": {
+    "hex": "#00F08C",
+    "aliases": ["flow"]
+  },
+  "Hemi": {
+    "hex": "#FF6A36",
+    "aliases": ["hemi"]
+  },
+  "Worldchain": {
+    "hex": "#5C5A58",
+    "aliases": ["worldchain", "wld"]
+  },
+  "Katana": {
+    "hex": "#F6FF09",
+    "aliases": ["katana"]
+  },
+  "TAC": {
+    "hex": "#90019B",
+    "aliases": ["tac"]
   }
 }
