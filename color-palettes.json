@@ -770,5 +770,9 @@
   "TAC": {
     "hex": "#90019B",
     "aliases": ["tac"]
+  },
+  "FLOW": {
+    "hex": "#00EF8B",
+    "aliases": ["flow"]
   }
 }
