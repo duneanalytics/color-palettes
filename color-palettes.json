@@ -813,7 +813,7 @@
   },
   "PyUSD": {
     "hex": "#003087",
-    "aliases": ["pyusd"]
+    "aliases": ["PYUSD"]
   },
   "USD₮": {
     "hex": "#157A55",
@@ -870,10 +870,6 @@
   "USDf": {
     "hex": "#9A3412",
     "aliases": ["usdf"]
-  },
-  "PYUSD": {
-    "hex": "#003087",
-    "aliases": ["pyusd"]
   },
   "Other": {
     "hex": "#BDBDBD",
