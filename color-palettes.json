@@ -842,5 +842,49 @@
   "unidentified_bot_activity": {
     "hex": "#4F4F4F",
     "aliases": ["Unidentified_bot_activity"]
+  },
+  "cex": {
+    "hex": "#f2b701",
+    "aliases": ["cex"]
+  },
+  "dex": {
+    "hex": "#cc61b0",
+    "aliases": ["dex"]
+  },
+  "lending": {
+    "hex": "#5d69b1",
+    "aliases": ["lending"]
+  },
+  "bridge": {
+    "hex": "#52bca3",
+    "aliases": ["bridge"]
+  },
+  "issuer": {
+    "hex": "#764e9f",
+    "aliases": ["issuer"]
+  },
+  "treasury_or_governance": {
+    "hex": "#f4603e",
+    "aliases": ["treasury_or_governance"]
+  },
+  "yield": {
+    "hex": "#73af48",
+    "aliases": ["yield"]
+  },
+  "erc20_contract": {
+    "hex": "#2f8ac4",
+    "aliases": ["erc20_contract"]
+  },
+  "dex_swap": {
+    "hex": "#cc61b0",
+    "aliases": ["dex_swap"]
+  },
+  "dex_liquidity": {
+    "hex": "#e73f74",
+    "aliases": ["dex_liquidity"]
+  },
+  "flashloan": {
+    "hex": "#e58606",
+    "aliases": ["flashloan"]
   }
 }
