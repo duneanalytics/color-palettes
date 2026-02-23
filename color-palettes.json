@@ -829,7 +829,7 @@
   },
   "Other": {
     "hex": "#BDBDBD",
-    "aliases": ["other", "Unidenitfied", "unidentified", "Unknown", "unknown"]
+    "aliases": ["other", "unidentified", "unknown"]
   },
   "unidentified_smart_contract": {
     "hex": "#9E9E9E",
