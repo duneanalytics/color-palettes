@@ -770,5 +770,77 @@
   "TAC": {
     "hex": "#90019B",
     "aliases": ["tac"]
+  },
+  "USDT": {
+    "hex": "#26A17B",
+    "aliases": ["usdt", "tether"]
+  },
+  "USDC": {
+    "hex": "#2775CA",
+    "aliases": ["usdc"]
+  },
+  "USDe": {
+    "hex": "#6F3FF5",
+    "aliases": ["usde"]
+  },
+  "USD1": {
+    "hex": "#1A47FF",
+    "aliases": ["usd1"]
+  },
+  "USDT0": {
+    "hex": "#2DBA8F",
+    "aliases": ["usdt0"]
+  },
+  "USDt": {
+    "hex": "#1F8C6A",
+    "aliases": ["usdt-lowercase"]
+  },
+  "USDG": {
+    "hex": "#00A3A3",
+    "aliases": ["usdg"]
+  },
+  "USD₮0": {
+    "hex": "#1A7A5C",
+    "aliases": ["usd-tether-0"]
+  },
+  "A7A5": {
+    "hex": "#6E6E6E",
+    "aliases": ["a7a5"]
+  },
+  "USDC.n": {
+    "hex": "#3B86D6",
+    "aliases": ["usdc-n", "usdc.n"]
+  },
+  "PyUSD": {
+    "hex": "#003087",
+    "aliases": ["pyusd"]
+  },
+  "USD₮": {
+    "hex": "#33C29A",
+    "aliases": ["usd-tether"]
+  },
+  "USX": {
+    "hex": "#E84142",
+    "aliases": ["usx"]
+  },
+  "USDai": {
+    "hex": "#F5AC37",
+    "aliases": ["usdai"]
+  },
+  "Other": {
+    "hex": "#BDBDBD",
+    "aliases": ["other", "unidentified", "unknown"]
+  },
+  "unidentified_smart_contract": {
+    "hex": "#9E9E9E",
+    "aliases": ["Unidentified_smart_contract"]
+  },
+  "unidentified_whale": {
+    "hex": "#757575",
+    "aliases": ["Unidentified_whale"]
+  },
+  "unidentified_bot_activity": {
+    "hex": "#4F4F4F",
+    "aliases": ["Unidentified_bot_activity"]
   }
 }
