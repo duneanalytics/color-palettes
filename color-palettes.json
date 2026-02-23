@@ -784,39 +784,39 @@
     "aliases": ["usde"]
   },
   "USD1": {
-    "hex": "#1A47FF",
+    "hex": "#A855F7",
     "aliases": ["usd1"]
   },
   "USDT0": {
-    "hex": "#2DBA8F",
+    "hex": "#1F8A70",
     "aliases": ["usdt0"]
   },
   "USDt": {
-    "hex": "#1F8C6A",
+    "hex": "#3CC8A1",
     "aliases": ["usdt-lowercase"]
   },
   "USDG": {
-    "hex": "#00A3A3",
+    "hex": "#E67E22",
     "aliases": ["usdg"]
   },
   "USD₮0": {
-    "hex": "#1A7A5C",
+    "hex": "#4ED9B4",
     "aliases": ["usd-tether-0"]
   },
   "A7A5": {
-    "hex": "#6E6E6E",
+    "hex": "#8A8A8A",
     "aliases": ["a7a5"]
   },
   "USDC.n": {
-    "hex": "#3B86D6",
+    "hex": "#1C5ED6",
     "aliases": ["usdc-n", "usdc.n"]
   },
   "PyUSD": {
     "hex": "#003087",
-    "aliases": ["pyusd"]
+    "aliases": ["PYUSD"]
   },
   "USD₮": {
-    "hex": "#33C29A",
+    "hex": "#157A55",
     "aliases": ["usd-tether"]
   },
   "USX": {
@@ -824,8 +824,52 @@
     "aliases": ["usx"]
   },
   "USDai": {
-    "hex": "#F5AC37",
+    "hex": "#E67E22",
     "aliases": ["usdai"]
+  },
+  "USDtb": {
+    "hex": "#0E5F45",
+    "aliases": ["usdtb"]
+  },
+  "vbUSDC": {
+    "hex": "#4A90E2",
+    "aliases": ["vbusdc"]
+  },
+  "DAI": {
+    "hex": "#F2B705",
+    "aliases": ["dai"]
+  },
+  "crvUSD": {
+    "hex": "#E1064C",
+    "aliases": ["crvusd"]
+  },
+  "RLUSD": {
+    "hex": "#4338CA",
+    "aliases": ["rlusd"]
+  },
+  "USDD": {
+    "hex": "#C81E1E",
+    "aliases": ["usdd"]
+  },
+  "USDS": {
+    "hex": "#00A6D6",
+    "aliases": ["usds"]
+  },
+  "USDm": {
+    "hex": "#8E44AD",
+    "aliases": ["usdm"]
+  },
+  "AUSD": {
+    "hex": "#FF6B4A",
+    "aliases": ["ausd"]
+  },
+  "EURC": {
+    "hex": "#244C9A",
+    "aliases": ["eurc"]
+  },
+  "USDf": {
+    "hex": "#9A3412",
+    "aliases": ["usdf"]
   },
   "Other": {
     "hex": "#BDBDBD",
@@ -842,5 +886,49 @@
   "unidentified_bot_activity": {
     "hex": "#4F4F4F",
     "aliases": ["Unidentified_bot_activity"]
+  },
+  "cex": {
+    "hex": "#f2b701",
+    "aliases": ["cex"]
+  },
+  "dex": {
+    "hex": "#cc61b0",
+    "aliases": ["dex"]
+  },
+  "lending": {
+    "hex": "#5d69b1",
+    "aliases": ["lending"]
+  },
+  "bridge": {
+    "hex": "#52bca3",
+    "aliases": ["bridge"]
+  },
+  "issuer": {
+    "hex": "#764e9f",
+    "aliases": ["issuer"]
+  },
+  "treasury_or_governance": {
+    "hex": "#f4603e",
+    "aliases": ["treasury_or_governance"]
+  },
+  "yield": {
+    "hex": "#73af48",
+    "aliases": ["yield"]
+  },
+  "erc20_contract": {
+    "hex": "#2f8ac4",
+    "aliases": ["erc20_contract"]
+  },
+  "dex_swap": {
+    "hex": "#cf597e",
+    "aliases": ["dex_swap"]
+  },
+  "dex_liquidity": {
+    "hex": "#e73f74",
+    "aliases": ["dex_liquidity"]
+  },
+  "flashloan": {
+    "hex": "#e58606",
+    "aliases": ["flashloan"]
   }
 }
