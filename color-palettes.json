@@ -876,7 +876,7 @@
     "aliases": ["erc20_contract"]
   },
   "dex_swap": {
-    "hex": "#cc61b0",
+    "hex": "#cf597e",
     "aliases": ["dex_swap"]
   },
   "dex_liquidity": {
