@@ -871,6 +871,30 @@
     "hex": "#9A3412",
     "aliases": ["usdf"]
   },
+  "JPY": {
+    "hex": "#e73f74",
+    "aliases": ["jpy"]
+  },
+  "CHF": {
+    "hex": "#cc503e",
+    "aliases": ["chf"]
+  },
+  "BRL": {
+    "hex": "#f2b701",
+    "aliases": ["brl"]
+  },
+  "EUR": {
+    "hex": "#3969ac",
+    "aliases": ["eur"]
+  },
+  "RUB": {
+    "hex": "#764e9f",
+    "aliases": ["rub"]
+  },
+  "USD": {
+    "hex": "#117733",
+    "aliases": ["usd"]
+  },
   "Other": {
     "hex": "#BDBDBD",
     "aliases": ["other", "unidentified", "unknown"]
