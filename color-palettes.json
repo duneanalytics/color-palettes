@@ -1014,5 +1014,97 @@
   "Exa": {
     "hex": "#0EA5E9",
     "aliases": ["exa"]
+  },
+  "MRDN": {
+    "hex": "#10B981",
+    "aliases": ["mrdn", "meridian"]
+  },
+  "Dexter": {
+    "hex": "#F97316",
+    "aliases": ["dexter"]
+  },
+  "Corbits": {
+    "hex": "#E98428",
+    "aliases": ["corbits"]
+  },
+  "AurraCloud": {
+    "hex": "#1A1A1A",
+    "aliases": ["aurracloud", "aura cloud"]
+  },
+  "Primer": {
+    "hex": "#818BFC",
+    "aliases": ["primer"]
+  },
+  "Cascade": {
+    "hex": "#141414",
+    "aliases": ["cascade"]
+  },
+  "Virtuals": {
+    "hex": "#44BCC3",
+    "aliases": ["virtuals", "virtuals protocol"]
+  },
+  "OpenMid": {
+    "hex": "#02387B",
+    "aliases": ["openmid"]
+  },
+  "AnySpend": {
+    "hex": "#007AFF",
+    "aliases": ["anyspend"]
+  },
+  "CodeNut": {
+    "hex": "#0F766E",
+    "aliases": ["codenut"]
+  },
+  "Daydreams": {
+    "hex": "#84CC16",
+    "aliases": ["daydreams"]
+  },
+  "Polymer": {
+    "hex": "#7B3FE4",
+    "aliases": ["polymer"]
+  },
+  "xEcho": {
+    "hex": "#00D4AA",
+    "aliases": ["xecho"]
+  },
+  "OpenX402": {
+    "hex": "#6C3CE1",
+    "aliases": ["openx402"]
+  },
+  "Relai": {
+    "hex": "#FF6B00",
+    "aliases": ["relai"]
+  },
+  "Questflow": {
+    "hex": "#A78BFA",
+    "aliases": ["questflow"]
+  },
+  "PayAI": {
+    "hex": "#14F195",
+    "aliases": ["payai", "pay ai"]
+  },
+  "x402rs": {
+    "hex": "#CE422B",
+    "aliases": ["x402rs"]
+  },
+  "Treasure": {
+    "hex": "#DC2626",
+    "aliases": ["treasure"]
+  },
+  "Mogami": {
+    "hex": "#22C55E",
+    "aliases": ["mogami"]
+  },
+  "x402jobs": {
+    "hex": "#F59E0B",
+    "aliases": ["x402jobs"]
+  },
+  "Bitrefill": {
+    "hex": "#FF6000",
+    "aliases": ["bitrefill"]
+  },
+  "Fluxa": {
+    "hex": "#06B6D4",
+    "aliases": ["fluxa"]
   }
 }
