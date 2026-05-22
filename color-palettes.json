@@ -954,5 +954,65 @@
   "flashloan": {
     "hex": "#e58606",
     "aliases": ["flashloan"]
+  },
+  "StraitsX": {
+    "hex": "#1B3A7A",
+    "aliases": ["straitsx"]
+  },
+  "Rain": {
+    "hex": "#3B82F6",
+    "aliases": ["rain"]
+  },
+  "Reap": {
+    "hex": "#8B5CF6",
+    "aliases": ["reap"]
+  },
+  "Gnosis Pay": {
+    "hex": "#1EAF8B",
+    "aliases": ["gnosis pay", "gnosis_pay"]
+  },
+  "Holyheld": {
+    "hex": "#F4803B",
+    "aliases": ["holyheld"]
+  },
+  "Fiat24": {
+    "hex": "#10B981",
+    "aliases": ["fiat24"]
+  },
+  "Kulipa": {
+    "hex": "#F59E0B",
+    "aliases": ["kulipa"]
+  },
+  "Immersve": {
+    "hex": "#EC4899",
+    "aliases": ["immersve"]
+  },
+  "PIX": {
+    "hex": "#06B6D4",
+    "aliases": ["pix"]
+  },
+  "Redotpay": {
+    "hex": "#E01E37",
+    "aliases": ["redotpay"]
+  },
+  "Ether.fi": {
+    "hex": "#00B4D8",
+    "aliases": ["ether.fi"]
+  },
+  "Cypher": {
+    "hex": "#6366F1",
+    "aliases": ["cypher"]
+  },
+  "Ready": {
+    "hex": "#FBBF24",
+    "aliases": ["ready"]
+  },
+  "SafePal": {
+    "hex": "#2563EB",
+    "aliases": ["safepal"]
+  },
+  "Exa": {
+    "hex": "#0EA5E9",
+    "aliases": ["exa"]
   }
 }
