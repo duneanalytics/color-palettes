@@ -597,11 +597,11 @@
   },
   "Lido": {
     "hex": "#4DB0F2",
-    "aliases": ["lido"]
+    "aliases": ["lido", "steth", "wsteth"]
   },
   "Coinbase": {
     "hex": "#0854FC",
-    "aliases": ["coinbase"]
+    "aliases": ["coinbase", "cbeth", "cbbtc"]
   },
   "Kraken": {
     "hex": "#5844DC",
@@ -633,7 +633,7 @@
   },
   "RocketPool": {
     "hex": "#FB8562",
-    "aliases": ["rocketpool"]
+    "aliases": ["rocketpool", "reth"]
   },
   "Celsius": {
     "hex": "#101464",
@@ -653,7 +653,7 @@
   },
   "Stakewise": {
     "hex": "#9082B3",
-    "aliases": ["stakewise"]
+    "aliases": ["stakewise", "oseth"]
   },
   "Bitstamp": {
     "hex": "#08FC9C",
@@ -717,11 +717,11 @@
   },
   "etherfi": {
     "hex": "#2F1769",
-    "aliases": ["etherfi"]
+    "aliases": ["etherfi", "weeth", "eeth"]
   },
   "Renzo": {
     "hex": "#C5FE5B",
-    "aliases": ["renzo"]
+    "aliases": ["renzo", "ezeth"]
   },
   "Swell": {
     "hex": "#2040CD",
@@ -1106,5 +1106,121 @@
   "Fluxa": {
     "hex": "#06B6D4",
     "aliases": ["fluxa"]
+  },
+  "OETH": {
+    "hex": "#0476F0",
+    "aliases": ["oeth", "origin_eth"]
+  },
+  "rsETH": {
+    "hex": "#075B5B",
+    "aliases": ["rseth"]
+  },
+  "ETH Plus": {
+    "hex": "#84C8FE",
+    "aliases": ["eth plus"]
+  },
+  "ETHx": {
+    "hex": "#8D66B3",
+    "aliases": ["ethx"]
+  },
+  "mETH": {
+    "hex": "#F4596D",
+    "aliases": ["meth"]
+  },
+  "sfrxETH": {
+    "hex": "#2563EB",
+    "aliases": ["sfrxeth"]
+  },
+  "frxETH": {
+    "hex": "#3B82F6",
+    "aliases": ["frxeth"]
+  },
+  "tETH": {
+    "hex": "#1CADAF",
+    "aliases": ["teth"]
+  },
+  "savETH": {
+    "hex": "#3A14A3",
+    "aliases": ["saveth"]
+  },
+  "ARM WETH eETH": {
+    "hex": "#9F52EA",
+    "aliases": ["arm-weth-eeth", "arm weth eeth"]
+  },
+  "ARM WETH stETH": {
+    "hex": "#A75EEC",
+    "aliases": ["arm-weth-steth", "arm weth steth"]
+  },
+  "WBTC": {
+    "hex": "#F09547",
+    "aliases": ["wbtc"]
+  },
+  "tBTC": {
+    "hex": "#1D2229",
+    "aliases": ["tbtc"]
+  },
+  "LBTC": {
+    "hex": "#5ECBC0",
+    "aliases": ["lbtc"]
+  },
+  "sUSDS": {
+    "hex": "#59D294",
+    "aliases": ["susds"]
+  },
+  "sUSDe": {
+    "hex": "#CDCDCD",
+    "aliases": ["susde", "pt-susde"]
+  },
+  "syrupUSDC": {
+    "hex": "#FB8042",
+    "aliases": ["syrupusdc"]
+  },
+  "syrupUSDT": {
+    "hex": "#FD905E",
+    "aliases": ["syrupusdt"]
+  },
+  "savUSD": {
+    "hex": "#3A14A3",
+    "aliases": ["savusd", "pt-savusd-14may2026"]
+  },
+  "stcUSD": {
+    "hex": "#D1F019",
+    "aliases": ["stcusd"]
+  },
+  "DUSD": {
+    "hex": "#DD2B2C",
+    "aliases": ["dusd"]
+  },
+  "siUSD": {
+    "hex": "#222223",
+    "aliases": ["siusd"]
+  },
+  "jrUSDe": {
+    "hex": "#9B7AFF",
+    "aliases": ["jrusde"]
+  },
+  "sNUSD": {
+    "hex": "#D7E538",
+    "aliases": ["snusd", "pt-snusd-4jun2026"]
+  },
+  "XAUt": {
+    "hex": "#DAB25C",
+    "aliases": ["xaut"]
+  },
+  "VBILL": {
+    "hex": "#16468E",
+    "aliases": ["vbill"]
+  },
+  "STAC": {
+    "hex": "#2B9CAE",
+    "aliases": ["stac"]
+  },
+  "NUSD": {
+    "hex": "#2E4D40",
+    "aliases": ["nusd"]
+  },
+  "srNUSD": {
+    "hex": "#A9B530",
+    "aliases": ["srnusd", "pt-srnusd-28may2026"]
   }
 }
