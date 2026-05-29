@@ -969,7 +969,7 @@
   },
   "Gnosis Pay": {
     "hex": "#1EAF8B",
-    "aliases": ["gnosis pay", "gnosis_pay"]
+    "aliases": ["gnosis pay", "Gnosis pay", "gnosis_pay", "GNOSIS_PAY", "GNOSIS PAY"]
   },
   "Holyheld": {
     "hex": "#F4803B",
@@ -997,7 +997,7 @@
   },
   "Ether.fi": {
     "hex": "#00B4D8",
-    "aliases": ["ether.fi"]
+    "aliases": ["ether.fi", "Etherfi", "ETHERFI"]
   },
   "Cypher": {
     "hex": "#6366F1",
@@ -1009,11 +1009,19 @@
   },
   "SafePal": {
     "hex": "#2563EB",
-    "aliases": ["safepal"]
+    "aliases": ["safepal", "Safepal", "SAFEPAL"]
   },
   "Exa": {
     "hex": "#0EA5E9",
     "aliases": ["exa"]
+  },
+  "MPP": {
+    "hex": "#14B8A6",
+    "aliases": ["mpp", "Mpp"]
+  },
+  "X402": {
+    "hex": "#7C3AED",
+    "aliases": ["x402"]
   },
   "MRDN": {
     "hex": "#10B981",
