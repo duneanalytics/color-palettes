@@ -923,6 +923,10 @@
     "hex": "#5d69b1",
     "aliases": ["lending"]
   },
+  "payments": {
+    "hex": "#99c945",
+    "aliases": ["payments"]
+  },
   "bridge": {
     "hex": "#52bca3",
     "aliases": ["bridge"]
@@ -1014,6 +1018,70 @@
   "Exa": {
     "hex": "#0EA5E9",
     "aliases": ["exa"]
+  },
+  "MPP": {
+    "hex": "#14B8A6",
+    "aliases": ["mpp"]
+  },
+  "X402": {
+    "hex": "#7C3AED",
+    "aliases": ["x402"]
+  },
+  "B2B": {
+    "hex": "#475569",
+    "aliases": ["b2b"]
+  },
+  "C2B": {
+    "hex": "#059669",
+    "aliases": ["c2b"]
+  },
+  "B2C": {
+    "hex": "#4F46E5",
+    "aliases": ["b2c"]
+  },
+  "C2B - Cards": {
+    "hex": "#16A34A",
+    "aliases": ["c2b - cards"]
+  },
+  "C2B - Other": {
+    "hex": "#84CC16",
+    "aliases": ["c2b - other"]
+  },
+  "B2B - Agentic": {
+    "hex": "#818CF8",
+    "aliases": ["b2b - agentic"]
+  },
+  "B2B - Other": {
+    "hex": "#94A3B8",
+    "aliases": ["b2b - other"]
+  },
+  "Cards": {
+    "hex": "#EA580C",
+    "aliases": ["cards"]
+  },
+  "Agentic": {
+    "hex": "#D946EF",
+    "aliases": ["agentic"]
+  },
+  "BVNK": {
+    "hex": "#1E40AF",
+    "aliases": ["bvnk"]
+  },
+  "Coinbase Commerce": {
+    "hex": "#0052FF",
+    "aliases": ["coinbase_commerce", "coinbase commerce"]
+  },
+  "Request Network": {
+    "hex": "#00E6A0",
+    "aliases": ["request_network", "request network", "requestnetwork"]
+  },
+  "Shopify CPP": {
+    "hex": "#95BF47",
+    "aliases": ["shopify_base_cpp", "shopify base cpp", "shopify_cpp"]
+  },
+  "Stripe": {
+    "hex": "#635BFF",
+    "aliases": ["stripe"]
   },
   "MRDN": {
     "hex": "#10B981",
