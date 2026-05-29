@@ -1039,6 +1039,22 @@
     "hex": "#4F46E5",
     "aliases": ["b2c"]
   },
+  "C2B - Cards": {
+    "hex": "#16A34A",
+    "aliases": ["c2b - cards"]
+  },
+  "C2B - Other": {
+    "hex": "#84CC16",
+    "aliases": ["c2b - other"]
+  },
+  "B2B - Agentic": {
+    "hex": "#818CF8",
+    "aliases": ["b2b - agentic"]
+  },
+  "B2B - Other": {
+    "hex": "#94A3B8",
+    "aliases": ["b2b - other"]
+  },
   "Cards": {
     "hex": "#EA580C",
     "aliases": ["cards"]
