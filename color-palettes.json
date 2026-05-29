@@ -923,6 +923,10 @@
     "hex": "#5d69b1",
     "aliases": ["lending"]
   },
+  "payments": {
+    "hex": "#99c945",
+    "aliases": ["payments"]
+  },
   "bridge": {
     "hex": "#52bca3",
     "aliases": ["bridge"]
@@ -969,7 +973,7 @@
   },
   "Gnosis Pay": {
     "hex": "#1EAF8B",
-    "aliases": ["gnosis pay", "Gnosis pay", "gnosis_pay", "GNOSIS_PAY", "GNOSIS PAY"]
+    "aliases": ["gnosis pay", "gnosis_pay"]
   },
   "Holyheld": {
     "hex": "#F4803B",
@@ -997,7 +1001,7 @@
   },
   "Ether.fi": {
     "hex": "#00B4D8",
-    "aliases": ["ether.fi", "Etherfi", "ETHERFI"]
+    "aliases": ["ether.fi"]
   },
   "Cypher": {
     "hex": "#6366F1",
@@ -1009,7 +1013,7 @@
   },
   "SafePal": {
     "hex": "#2563EB",
-    "aliases": ["safepal", "Safepal", "SAFEPAL"]
+    "aliases": ["safepal"]
   },
   "Exa": {
     "hex": "#0EA5E9",
@@ -1017,7 +1021,7 @@
   },
   "MPP": {
     "hex": "#14B8A6",
-    "aliases": ["mpp", "Mpp"]
+    "aliases": ["mpp"]
   },
   "X402": {
     "hex": "#7C3AED",
@@ -1025,47 +1029,43 @@
   },
   "B2B": {
     "hex": "#475569",
-    "aliases": ["b2b", "B2b", "b2B"]
+    "aliases": ["b2b"]
   },
   "C2B": {
     "hex": "#059669",
-    "aliases": ["c2b", "C2b", "c2B"]
+    "aliases": ["c2b"]
   },
   "B2C": {
     "hex": "#4F46E5",
-    "aliases": ["b2c", "B2c", "b2C"]
+    "aliases": ["b2c"]
   },
   "Cards": {
     "hex": "#EA580C",
-    "aliases": ["cards", "CARDS"]
+    "aliases": ["cards"]
   },
   "Agentic": {
     "hex": "#D946EF",
-    "aliases": ["agentic", "AGENTIC"]
-  },
-  "Payments": {
-    "hex": "#BE123C",
-    "aliases": ["payments", "PAYMENTS"]
+    "aliases": ["agentic"]
   },
   "BVNK": {
     "hex": "#1E40AF",
-    "aliases": ["bvnk", "Bvnk"]
+    "aliases": ["bvnk"]
   },
   "Coinbase Commerce": {
     "hex": "#0052FF",
-    "aliases": ["coinbase_commerce", "Coinbase commerce", "coinbase commerce", "COINBASE_COMMERCE"]
+    "aliases": ["coinbase_commerce", "coinbase commerce"]
   },
   "Request Network": {
     "hex": "#00E6A0",
-    "aliases": ["request_network", "Request network", "request network", "REQUEST_NETWORK", "RequestNetwork"]
+    "aliases": ["request_network", "request network", "requestnetwork"]
   },
   "Shopify CPP": {
     "hex": "#95BF47",
-    "aliases": ["shopify_base_cpp", "Shopify base cpp", "shopify base cpp", "SHOPIFY_BASE_CPP", "shopify_cpp"]
+    "aliases": ["shopify_base_cpp", "shopify base cpp", "shopify_cpp"]
   },
   "Stripe": {
     "hex": "#635BFF",
-    "aliases": ["stripe", "STRIPE"]
+    "aliases": ["stripe"]
   },
   "MRDN": {
     "hex": "#10B981",
