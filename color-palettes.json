@@ -1023,6 +1023,50 @@
     "hex": "#7C3AED",
     "aliases": ["x402"]
   },
+  "B2B": {
+    "hex": "#475569",
+    "aliases": ["b2b", "B2b", "b2B"]
+  },
+  "C2B": {
+    "hex": "#059669",
+    "aliases": ["c2b", "C2b", "c2B"]
+  },
+  "B2C": {
+    "hex": "#4F46E5",
+    "aliases": ["b2c", "B2c", "b2C"]
+  },
+  "Cards": {
+    "hex": "#EA580C",
+    "aliases": ["cards", "CARDS"]
+  },
+  "Agentic": {
+    "hex": "#D946EF",
+    "aliases": ["agentic", "AGENTIC"]
+  },
+  "Payments": {
+    "hex": "#BE123C",
+    "aliases": ["payments", "PAYMENTS"]
+  },
+  "BVNK": {
+    "hex": "#1E40AF",
+    "aliases": ["bvnk", "Bvnk"]
+  },
+  "Coinbase Commerce": {
+    "hex": "#0052FF",
+    "aliases": ["coinbase_commerce", "Coinbase commerce", "coinbase commerce", "COINBASE_COMMERCE"]
+  },
+  "Request Network": {
+    "hex": "#00E6A0",
+    "aliases": ["request_network", "Request network", "request network", "REQUEST_NETWORK", "RequestNetwork"]
+  },
+  "Shopify CPP": {
+    "hex": "#95BF47",
+    "aliases": ["shopify_base_cpp", "Shopify base cpp", "shopify base cpp", "SHOPIFY_BASE_CPP", "shopify_cpp"]
+  },
+  "Stripe": {
+    "hex": "#635BFF",
+    "aliases": ["stripe", "STRIPE"]
+  },
   "MRDN": {
     "hex": "#10B981",
     "aliases": ["mrdn", "meridian"]
