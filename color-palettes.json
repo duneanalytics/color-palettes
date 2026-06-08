@@ -1,4 +1,760 @@
 {
+  "FTX": {
+    "hex": "#11A9BC",
+    "aliases": ["ftx"]
+  },
+  "FTX US": {
+    "hex": "#15B8CC",
+    "aliases": ["ftx us"]
+  },
+  "Cobo": {
+    "hex": "#2F6BFF",
+    "aliases": ["cobo"]
+  },
+  "CoinList": {
+    "hex": "#2D6CDF",
+    "aliases": ["coinlist"]
+  },
+  "Loopring": {
+    "hex": "#1C60FF",
+    "aliases": ["loopring"]
+  },
+  "Raydium": {
+    "hex": "#5C6CFA",
+    "aliases": ["raydium"]
+  },
+  "Peatio": {
+    "hex": "#6BAF5D",
+    "aliases": ["peatio"]
+  },
+  "Bitbuy": {
+    "hex": "#1652F0",
+    "aliases": ["bitbuy"]
+  },
+  "Stake.com": {
+    "hex": "#1A88FF",
+    "aliases": ["stake.com"]
+  },
+  "Aerodrome": {
+    "hex": "#0F8FF5",
+    "aliases": ["aerodrome"]
+  },
+  "Alphapo": {
+    "hex": "#C77DBA",
+    "aliases": ["alphapo"]
+  },
+  "QuickSwap": {
+    "hex": "#418AEC",
+    "aliases": ["quickswap"]
+  },
+  "Coinbase Prime": {
+    "hex": "#0A3FCC",
+    "aliases": ["coinbase prime"]
+  },
+  "Gnosis Chain": {
+    "hex": "#3E9B7C",
+    "aliases": ["gnosis chain"]
+  },
+  "Layer2Finance": {
+    "hex": "#3F86E6",
+    "aliases": ["layer2finance"]
+  },
+  "Celer Network": {
+    "hex": "#00A3E0",
+    "aliases": ["celer network"]
+  },
+  "Venus": {
+    "hex": "#F2B33D",
+    "aliases": ["venus"]
+  },
+  "BitForex": {
+    "hex": "#2A55E0",
+    "aliases": ["bitforex"]
+  },
+  "Dexalot": {
+    "hex": "#1FB6C9",
+    "aliases": ["dexalot"]
+  },
+  "Coins.ph": {
+    "hex": "#0E6CFF",
+    "aliases": ["coins.ph"]
+  },
+  "Orca": {
+    "hex": "#5A4FCF",
+    "aliases": ["orca"]
+  },
+  "Mercado Bitcoin": {
+    "hex": "#00B070",
+    "aliases": ["mercado bitcoin"]
+  },
+  "Avantis": {
+    "hex": "#2EE6A6",
+    "aliases": ["avantis"]
+  },
+  "Kuna": {
+    "hex": "#6A4CE0",
+    "aliases": ["kuna"]
+  },
+  "HitBTC": {
+    "hex": "#00AEEF",
+    "aliases": ["hitbtc"]
+  },
+  "BTSE": {
+    "hex": "#00C2A8",
+    "aliases": ["btse"]
+  },
+  "Balancer": {
+    "hex": "#3B4CF0",
+    "aliases": ["balancer"]
+  },
+  "Klever Exchange": {
+    "hex": "#7A52E8",
+    "aliases": ["klever exchange"]
+  },
+  "BitGo": {
+    "hex": "#2A6BFF",
+    "aliases": ["bitgo"]
+  },
+  "Ceffu": {
+    "hex": "#14B89A",
+    "aliases": ["ceffu"]
+  },
+  "Biconomy": {
+    "hex": "#FF5A1F",
+    "aliases": ["biconomy"]
+  },
+  "Squid": {
+    "hex": "#FF3D9A",
+    "aliases": ["squid"]
+  },
+  "Brasil Bitcoin": {
+    "hex": "#00A859",
+    "aliases": ["brasil bitcoin"]
+  },
+  "Bitvavo": {
+    "hex": "#2C2CF0",
+    "aliases": ["bitvavo"]
+  },
+  "dEURO": {
+    "hex": "#2F5BE0",
+    "aliases": ["deuro"]
+  },
+  "Anchorage Digital": {
+    "hex": "#4F7FE8",
+    "aliases": ["anchorage digital"]
+  },
+  "Arkham": {
+    "hex": "#00D4E6",
+    "aliases": ["arkham"]
+  },
+  "Nexo": {
+    "hex": "#1F4FB5",
+    "aliases": ["nexo"]
+  },
+  "Binance US": {
+    "hex": "#F0B90B",
+    "aliases": ["binance us"]
+  },
+  "BlockFi": {
+    "hex": "#88D94F",
+    "aliases": ["blockfi"]
+  },
+  "Indodax": {
+    "hex": "#1C5BD6",
+    "aliases": ["indodax"]
+  },
+  "Bilaxy": {
+    "hex": "#2D9CDB",
+    "aliases": ["bilaxy"]
+  },
+  "Anyswap": {
+    "hex": "#5B68F0",
+    "aliases": ["anyswap"]
+  },
+  "Ramp Network": {
+    "hex": "#21BF73",
+    "aliases": ["ramp network"]
+  },
+  "Synapse": {
+    "hex": "#BB16E8",
+    "aliases": ["synapse"]
+  },
+  "Bitpanda": {
+    "hex": "#4B7BE8",
+    "aliases": ["bitpanda"]
+  },
+  "Transak": {
+    "hex": "#2B68E6",
+    "aliases": ["transak"]
+  },
+  "Reku": {
+    "hex": "#7B4FE0",
+    "aliases": ["reku"]
+  },
+  "Gravity Bridge": {
+    "hex": "#7B4FE0",
+    "aliases": ["gravity bridge"]
+  },
+  "SideShift": {
+    "hex": "#FF7A1F",
+    "aliases": ["sideshift"]
+  },
+  "Korbit": {
+    "hex": "#2A6BE0",
+    "aliases": ["korbit"]
+  },
+  "Deribit": {
+    "hex": "#0FB070",
+    "aliases": ["deribit"]
+  },
+  "Pharaoh": {
+    "hex": "#D4AA4B",
+    "aliases": ["pharaoh"]
+  },
+  "CoinFLEX": {
+    "hex": "#FF6A1F",
+    "aliases": ["coinflex"]
+  },
+  "HashKey Exchange": {
+    "hex": "#2D5BFF",
+    "aliases": ["hashkey exchange"]
+  },
+  "CoinPayments.net": {
+    "hex": "#1F7BE6",
+    "aliases": ["coinpayments.net"]
+  },
+  "ChangeNOW": {
+    "hex": "#00C26F",
+    "aliases": ["changenow"]
+  },
+  "SwissBorg": {
+    "hex": "#00B6D4",
+    "aliases": ["swissborg"]
+  },
+  "Luno": {
+    "hex": "#1F5BE0",
+    "aliases": ["luno"]
+  },
+  "PancakeSwap": {
+    "hex": "#1FC7D4",
+    "aliases": ["pancakeswap"]
+  },
+  "STASIS": {
+    "hex": "#2D66E0",
+    "aliases": ["stasis"]
+  },
+  "LATOKEN": {
+    "hex": "#2E7BF6",
+    "aliases": ["latoken"]
+  },
+  "Swapster": {
+    "hex": "#C9B04B",
+    "aliases": ["swapster"]
+  },
+  "Jupiter": {
+    "hex": "#B6E84F",
+    "aliases": ["jupiter"]
+  },
+  "Drift": {
+    "hex": "#7350F0",
+    "aliases": ["drift"]
+  },
+  "C-Patex": {
+    "hex": "#C9A24B",
+    "aliases": ["c-patex"]
+  },
+  "WOO Network": {
+    "hex": "#7A4CE0",
+    "aliases": ["woo network"]
+  },
+  "Gemini": {
+    "hex": "#00C8E6",
+    "aliases": ["gemini"]
+  },
+  "CoinW": {
+    "hex": "#2570F0",
+    "aliases": ["coinw"]
+  },
+  "OKCoin": {
+    "hex": "#2C6BF0",
+    "aliases": ["okcoin"]
+  },
+  "Bidesk": {
+    "hex": "#D9A441",
+    "aliases": ["bidesk"]
+  },
+  "BiKi": {
+    "hex": "#E0B33D",
+    "aliases": ["biki"]
+  },
+  "Simplex": {
+    "hex": "#F37A2A",
+    "aliases": ["simplex"]
+  },
+  "LCX": {
+    "hex": "#2A55D6",
+    "aliases": ["lcx"]
+  },
+  "CoinBene": {
+    "hex": "#2A60D6",
+    "aliases": ["coinbene"]
+  },
+  "xPollinate": {
+    "hex": "#29C0E8",
+    "aliases": ["xpollinate"]
+  },
+  "CoinJar": {
+    "hex": "#00A4E4",
+    "aliases": ["coinjar"]
+  },
+  "Angle Protocol": {
+    "hex": "#6C7CF0",
+    "aliases": ["angle protocol"]
+  },
+  "AscendEX": {
+    "hex": "#7350E0",
+    "aliases": ["ascendex"]
+  },
+  "LayerZero": {
+    "hex": "#9CA3AF",
+    "aliases": ["layerzero"]
+  },
+  "Compound": {
+    "hex": "#00D395",
+    "aliases": ["compound"]
+  },
+  "Aster": {
+    "hex": "#D4A537",
+    "aliases": ["aster"]
+  },
+  "Bit2Me": {
+    "hex": "#0FB89C",
+    "aliases": ["bit2me"]
+  },
+  "BingX": {
+    "hex": "#2B6BF5",
+    "aliases": ["bingx"]
+  },
+  "Tether Treasury": {
+    "hex": "#26A17B",
+    "aliases": ["tether treasury"]
+  },
+  "YouHodler": {
+    "hex": "#2D7FF9",
+    "aliases": ["youhodler"]
+  },
+  "CEX.IO": {
+    "hex": "#2D6BE0",
+    "aliases": ["cex.io"]
+  },
+  "Bithumb": {
+    "hex": "#F37A2A",
+    "aliases": ["bithumb"]
+  },
+  "Tidex": {
+    "hex": "#2D9CDB",
+    "aliases": ["tidex"]
+  },
+  "Spark": {
+    "hex": "#F25C8A",
+    "aliases": ["spark"]
+  },
+  "Morpho": {
+    "hex": "#4B6BF0",
+    "aliases": ["morpho"]
+  },
+  "Paxos": {
+    "hex": "#0FC476",
+    "aliases": ["paxos"]
+  },
+  "BitMart": {
+    "hex": "#00B8C5",
+    "aliases": ["bitmart"]
+  },
+  "FalconX": {
+    "hex": "#E0603D",
+    "aliases": ["falconx"]
+  },
+  "Incognito Chain": {
+    "hex": "#2EC4A0",
+    "aliases": ["incognito chain"]
+  },
+  "JustLend": {
+    "hex": "#E0483D",
+    "aliases": ["justlend"]
+  },
+  "SimpleSwap": {
+    "hex": "#2E84EE",
+    "aliases": ["simpleswap"]
+  },
+  "EXMO": {
+    "hex": "#2A6FE0",
+    "aliases": ["exmo"]
+  },
+  "SunSwap": {
+    "hex": "#F04444",
+    "aliases": ["sunswap"]
+  },
+  "bitbank": {
+    "hex": "#00A0E9",
+    "aliases": ["bitbank"]
+  },
+  "Backpack": {
+    "hex": "#E84444",
+    "aliases": ["backpack"]
+  },
+  "Paxful": {
+    "hex": "#1F8FE6",
+    "aliases": ["paxful"]
+  },
+  "Ripio": {
+    "hex": "#18BE84",
+    "aliases": ["ripio"]
+  },
+  "Bitkub": {
+    "hex": "#0AC18E",
+    "aliases": ["bitkub"]
+  },
+  "Shakepay": {
+    "hex": "#4B4FE8",
+    "aliases": ["shakepay"]
+  },
+  "Zero Hash": {
+    "hex": "#14B89A",
+    "aliases": ["zero hash"]
+  },
+  "Symbiosis": {
+    "hex": "#00D9BE",
+    "aliases": ["symbiosis"]
+  },
+  "Coinstore": {
+    "hex": "#2A60D6",
+    "aliases": ["coinstore"]
+  },
+  "MoonPay": {
+    "hex": "#8A1FFF",
+    "aliases": ["moonpay"]
+  },
+  "Multichain": {
+    "hex": "#4E5BF7",
+    "aliases": ["multichain"]
+  },
+  "BRLA": {
+    "hex": "#00A859",
+    "aliases": ["brla"]
+  },
+  "Permian Labs": {
+    "hex": "#B5708C",
+    "aliases": ["permian labs"]
+  },
+  "Wintermute": {
+    "hex": "#5C5CF0",
+    "aliases": ["wintermute"]
+  },
+  "LFJ": {
+    "hex": "#E84A3F",
+    "aliases": ["lfj", "trader joe"]
+  },
+  "Revolut": {
+    "hex": "#1666EB",
+    "aliases": ["revolut"]
+  },
+  "Cryptopia": {
+    "hex": "#2D9CDB",
+    "aliases": ["cryptopia"]
+  },
+  "Bittrex": {
+    "hex": "#2A6FE0",
+    "aliases": ["bittrex"]
+  },
+  "Wirex": {
+    "hex": "#00C7B8",
+    "aliases": ["wirex"]
+  },
+  "Phemex": {
+    "hex": "#2D6BE0",
+    "aliases": ["phemex"]
+  },
+  "CoinEx": {
+    "hex": "#2D7FF9",
+    "aliases": ["coinex"]
+  },
+  "MEXC": {
+    "hex": "#00B897",
+    "aliases": ["mexc"]
+  },
+  "Celsius Network": {
+    "hex": "#B07FE0",
+    "aliases": ["celsius network"]
+  },
+  "XT.com": {
+    "hex": "#3388E6",
+    "aliases": ["xt.com"]
+  },
+  "Coinhako": {
+    "hex": "#2A60D6",
+    "aliases": ["coinhako"]
+  },
+  "AAX": {
+    "hex": "#2A6FE0",
+    "aliases": ["aax"]
+  },
+  "MaskEX": {
+    "hex": "#14B89A",
+    "aliases": ["maskex"]
+  },
+  "Emirex": {
+    "hex": "#C9A24B",
+    "aliases": ["emirex"]
+  },
+  "BitBee": {
+    "hex": "#D9A441",
+    "aliases": ["bitbee"]
+  },
+  "Curve": {
+    "hex": "#C4382E",
+    "aliases": ["curve"]
+  },
+  "Hoo.com": {
+    "hex": "#2D9CDB",
+    "aliases": ["hoo.com"]
+  },
+  "ApolloX": {
+    "hex": "#E0B33D",
+    "aliases": ["apollox"]
+  },
+  "Socket": {
+    "hex": "#B6F03A",
+    "aliases": ["socket"]
+  },
+  "Sky": {
+    "hex": "#1ABFA0",
+    "aliases": ["sky"]
+  },
+  "CoinSpot": {
+    "hex": "#1F5BE0",
+    "aliases": ["coinspot"]
+  },
+  "Dex-Trade": {
+    "hex": "#3388E6",
+    "aliases": ["dex-trade"]
+  },
+  "CoinMetro": {
+    "hex": "#2A60D6",
+    "aliases": ["coinmetro"]
+  },
+  "Kanga Exchange": {
+    "hex": "#1FA860",
+    "aliases": ["kanga exchange"]
+  },
+  "CCIP": {
+    "hex": "#375BD2",
+    "aliases": ["ccip"]
+  },
+  "HTX": {
+    "hex": "#1FB67F",
+    "aliases": ["htx"]
+  },
+  "Voyager": {
+    "hex": "#5C7CFA",
+    "aliases": ["voyager"]
+  },
+  "Copper": {
+    "hex": "#E0603D",
+    "aliases": ["copper"]
+  },
+  "AltCoinTrader": {
+    "hex": "#1FA860",
+    "aliases": ["altcointrader"]
+  },
+  "Ethena": {
+    "hex": "#8A8FF0",
+    "aliases": ["ethena"]
+  },
+  "BtcTurk": {
+    "hex": "#2A60D6",
+    "aliases": ["btcturk"]
+  },
+  "QuadrigaCX": {
+    "hex": "#2A6FE0",
+    "aliases": ["quadrigacx"]
+  },
+  "Yield Basis": {
+    "hex": "#E0C04B",
+    "aliases": ["yield basis"]
+  },
+  "Immutable X": {
+    "hex": "#17C3C9",
+    "aliases": ["immutable x"]
+  },
+  "BitPay": {
+    "hex": "#2A55D6",
+    "aliases": ["bitpay"]
+  },
+  "ZB.com": {
+    "hex": "#2A60D6",
+    "aliases": ["zb.com"]
+  },
+  "WhiteBIT": {
+    "hex": "#2D88E6",
+    "aliases": ["whitebit"]
+  },
+  "Liquid": {
+    "hex": "#2D9CDB",
+    "aliases": ["liquid"]
+  },
+  "Burn Address": {
+    "hex": "#555555",
+    "aliases": ["burn address"]
+  },
+  "Allbridge": {
+    "hex": "#2D8FF5",
+    "aliases": ["allbridge"]
+  },
+  "B2BinPay": {
+    "hex": "#2C6BE0",
+    "aliases": ["b2binpay"]
+  },
+  "BetFury": {
+    "hex": "#EAB42F",
+    "aliases": ["betfury"]
+  },
+  "BitMEX": {
+    "hex": "#ED4B5A",
+    "aliases": ["bitmex"]
+  },
+  "Portal Bridge": {
+    "hex": "#B45CF0",
+    "aliases": ["portal bridge"]
+  },
+  "OMGFIN": {
+    "hex": "#D9A441",
+    "aliases": ["omgfin"]
+  },
+  "Meteora": {
+    "hex": "#29D9A0",
+    "aliases": ["meteora"]
+  },
+  "B2C2 Group": {
+    "hex": "#5C5CF0",
+    "aliases": ["b2c2 group"]
+  },
+  "Circle": {
+    "hex": "#2775CA",
+    "aliases": ["circle"]
+  },
+  "Bitso": {
+    "hex": "#14C9A8",
+    "aliases": ["bitso"]
+  },
+  "Crypto.com": {
+    "hex": "#1A57C9",
+    "aliases": ["crypto.com"]
+  },
+  "Bitget": {
+    "hex": "#00E0F0",
+    "aliases": ["bitget"]
+  },
+  "ChainUp": {
+    "hex": "#2A60D6",
+    "aliases": ["chainup"]
+  },
+  "Bitrue": {
+    "hex": "#FF8A1F",
+    "aliases": ["bitrue"]
+  },
+  "SushiSwap": {
+    "hex": "#FA52A0",
+    "aliases": ["sushiswap"]
+  },
+  "Bibox": {
+    "hex": "#2E8AEE",
+    "aliases": ["bibox"]
+  },
+  "Robinhood": {
+    "hex": "#00C805",
+    "aliases": ["robinhood"]
+  },
+  "ProBit": {
+    "hex": "#3388E6",
+    "aliases": ["probit"]
+  },
+  "Kamino": {
+    "hex": "#6C5CF0",
+    "aliases": ["kamino"]
+  },
+  "Resolv": {
+    "hex": "#1FD49A",
+    "aliases": ["resolv"]
+  },
+  "Bullish": {
+    "hex": "#00D98A",
+    "aliases": ["bullish", "bullish.com"]
+  },
+  "DeBridge Finance": {
+    "hex": "#A66BF2",
+    "aliases": ["debridge finance", "debridgegate"]
+  },
+  "Lemon Cash": {
+    "hex": "#E6D400",
+    "aliases": ["lemon cash"]
+  },
+  "FixedFloat": {
+    "hex": "#0FB872",
+    "aliases": ["fixedfloat"]
+  },
+  "Hotbit": {
+    "hex": "#2D9CDB",
+    "aliases": ["hotbit"]
+  },
+  "Aave": {
+    "hex": "#B6509E",
+    "aliases": ["aave"]
+  },
+  "Yearn": {
+    "hex": "#0F6BE6",
+    "aliases": ["yearn"]
+  },
+  "LBank": {
+    "hex": "#2A60D6",
+    "aliases": ["lbank"]
+  },
+  "Synthetix": {
+    "hex": "#00C2F0",
+    "aliases": ["synthetix"]
+  },
+  "Harmony": {
+    "hex": "#00AEE9",
+    "aliases": ["harmony"]
+  },
+  "CoinDCX": {
+    "hex": "#1F5BE0",
+    "aliases": ["coindcx"]
+  },
+  "Uphold": {
+    "hex": "#2BB89E",
+    "aliases": ["uphold"]
+  },
+  "ShapeShift": {
+    "hex": "#15C2CE",
+    "aliases": ["shapeshift"]
+  },
+  "opBNB": {
+    "hex": "#F0B90B",
+    "aliases": ["opbnb"]
+  },
+  "bitFlyer": {
+    "hex": "#C9A24B",
+    "aliases": ["bitflyer"]
+  },
+  "Fluid": {
+    "hex": "#2E80EE",
+    "aliases": ["fluid"]
+  },
+  "Yunbi": {
+    "hex": "#2D9CDB",
+    "aliases": ["yunbi"]
+  },
   "Uniswap": {
     "hex": "#F50DB4",
     "aliases": ["uniswap", "uni"]
@@ -673,7 +1429,7 @@
   },
   "Gate": {
     "hex": "#20E4A4",
-    "aliases": ["gate"]
+    "aliases": ["gate", "gate.io"]
   },
   "Kucoin": {
     "hex": "#28CC94",
@@ -930,6 +1686,10 @@
   "issuer": {
     "hex": "#764e9f",
     "aliases": ["issuer"]
+  },
+  "burn": {
+    "hex": "#E04B43",
+    "aliases": ["burn"]
   },
   "treasury_or_governance": {
     "hex": "#f4603e",
