@@ -931,6 +931,10 @@
     "hex": "#764e9f",
     "aliases": ["issuer"]
   },
+  "burn": {
+    "hex": "#E04B43",
+    "aliases": ["burn"]
+  },
   "treasury_or_governance": {
     "hex": "#f4603e",
     "aliases": ["treasury_or_governance"]
