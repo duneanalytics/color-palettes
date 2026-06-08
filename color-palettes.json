@@ -15,9 +15,9 @@
     "hex": "#2D6CDF",
     "aliases": ["coinlist"]
   },
-  "Loopring: Exchange V2 Deposit": {
+  "Loopring": {
     "hex": "#1C60FF",
-    "aliases": ["loopring: exchange v2 deposit"]
+    "aliases": ["loopring"]
   },
   "Raydium": {
     "hex": "#5C6CFA",
@@ -53,15 +53,15 @@
   },
   "Gnosis Chain": {
     "hex": "#3E9B7C",
-    "aliases": ["gnosis chain", "gnosis chain: xdai bridge", "gnosis chain: omni bridge"]
+    "aliases": ["gnosis chain"]
   },
-  "Layer2Finance: Rollup Chain": {
+  "Layer2Finance": {
     "hex": "#3F86E6",
-    "aliases": ["layer2finance: rollup chain"]
+    "aliases": ["layer2finance"]
   },
   "Celer Network": {
     "hex": "#00A3E0",
-    "aliases": ["celer network: cbridge", "celer network: cbridge 2"]
+    "aliases": ["celer network"]
   },
   "Venus": {
     "hex": "#F2B33D",
@@ -177,7 +177,7 @@
   },
   "Synapse": {
     "hex": "#BB16E8",
-    "aliases": ["synapse", "synapse: bridge"]
+    "aliases": ["synapse"]
   },
   "Bitpanda": {
     "hex": "#4B7BE8",
@@ -191,9 +191,9 @@
     "hex": "#7B4FE0",
     "aliases": ["reku"]
   },
-  "Gravity Bridge: Bridge": {
+  "Gravity Bridge": {
     "hex": "#7B4FE0",
-    "aliases": ["gravity bridge: bridge"]
+    "aliases": ["gravity bridge"]
   },
   "SideShift": {
     "hex": "#FF7A1F",
@@ -299,9 +299,9 @@
     "hex": "#2A60D6",
     "aliases": ["coinbene"]
   },
-  "xPollinate: Transaction Manager": {
+  "xPollinate": {
     "hex": "#29C0E8",
-    "aliases": ["xpollinate: transaction manager"]
+    "aliases": ["xpollinate"]
   },
   "CoinJar": {
     "hex": "#00A4E4",
@@ -437,7 +437,7 @@
   },
   "Multichain": {
     "hex": "#4E5BF7",
-    "aliases": ["multichain", "multichain: fantom bridge", "multichain: fuse bridge", "multichain: old bsc bridge", "multichain: moonriver bridge"]
+    "aliases": ["multichain"]
   },
   "BRLA": {
     "hex": "#00A859",
@@ -523,9 +523,9 @@
     "hex": "#E0B33D",
     "aliases": ["apollox"]
   },
-  "Socket: Gateway": {
+  "Socket": {
     "hex": "#B6F03A",
-    "aliases": ["socket: gateway"]
+    "aliases": ["socket"]
   },
   "Sky": {
     "hex": "#1ABFA0",
@@ -583,9 +583,9 @@
     "hex": "#E0C04B",
     "aliases": ["yield basis"]
   },
-  "Immutable X: Bridge": {
+  "Immutable X": {
     "hex": "#17C3C9",
-    "aliases": ["immutable x: bridge"]
+    "aliases": ["immutable x"]
   },
   "BitPay": {
     "hex": "#2A55D6",
@@ -725,7 +725,7 @@
   },
   "Harmony": {
     "hex": "#00AEE9",
-    "aliases": ["harmony", "harmony: erc20 bridge", "harmony: eth bridge"]
+    "aliases": ["harmony"]
   },
   "CoinDCX": {
     "hex": "#1F5BE0",
