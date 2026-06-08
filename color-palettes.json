@@ -1,4 +1,24 @@
 {
+  "0-1": {
+    "hex": "#4C8DF0",
+    "aliases": ["0-1"]
+  },
+  "1-100": {
+    "hex": "#2BC4B0",
+    "aliases": ["1-100"]
+  },
+  "100-10k": {
+    "hex": "#A8D24B",
+    "aliases": ["100-10k"]
+  },
+  "10k-100k": {
+    "hex": "#F2A03C",
+    "aliases": ["10k-100k"]
+  },
+  "100k plus": {
+    "hex": "#EA5247",
+    "aliases": ["100k plus"]
+  },
   "FTX": {
     "hex": "#11A9BC",
     "aliases": ["ftx"]
