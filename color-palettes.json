@@ -1672,8 +1672,12 @@
     "aliases": ["usd"]
   },
   "Other": {
+    "hex": "#616161",
+    "aliases": ["other"]
+  },
+  "Unknown": {
     "hex": "#BDBDBD",
-    "aliases": ["other", "unidentified", "unknown"]
+    "aliases": ["unknown", "unidentified"]
   },
   "unidentified_smart_contract": {
     "hex": "#9E9E9E",
