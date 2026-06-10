@@ -1837,7 +1837,7 @@
   },
   "MPP": {
     "hex": "#14B8A6",
-    "aliases": ["mpp"]
+    "aliases": ["mpp", "Mpp"]
   },
   "X402": {
     "hex": "#7C3AED",
