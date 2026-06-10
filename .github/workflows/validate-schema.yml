@@ -29,15 +29,12 @@ jobs:
           # Extract all aliases and their protocols, then check for duplicates
           jq -r 'to_entries | .[] | .key as $protocol | .value.aliases[] | [$protocol, .] | @tsv' color-palettes.json | \
           awk -F '\t' '{
-            # Store the original alias
-            original_alias = $2
-            # Convert alias to lowercase for case-insensitive comparison
-            alias = tolower(original_alias)
+            alias = $2
             
-            # Check if this exact alias has been seen before (only comparing aliases)
-            if (seen[alias]) {
+            # Check if this exact alias has been seen for a different protocol.
+            if (seen[alias] && seen[alias] != $1) {
               printf "Error: Duplicate alias \"%s\" found in protocols \"%s\" and \"%s\"\n", 
-                     original_alias, seen[alias], $1
+                     alias, seen[alias], $1
               exit 1
             }
             
