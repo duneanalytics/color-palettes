@@ -1,4 +1,36 @@
 {
+  "Across": {
+    "hex": "#EE6A5C",
+    "aliases": ["across"]
+  },
+  "Agglayer": {
+    "hex": "#B14AE0",
+    "aliases": ["agglayer"]
+  },
+  "Axelar": {
+    "hex": "#6457E0",
+    "aliases": ["axelar"]
+  },
+  "Hyperliquid": {
+    "hex": "#97FCE4",
+    "aliases": ["hyperliquid"]
+  },
+  "Lighter": {
+    "hex": "#6DD46A",
+    "aliases": ["lighter"]
+  },
+  "Orbiter": {
+    "hex": "#FF8C42",
+    "aliases": ["orbiter"]
+  },
+  "Sui": {
+    "hex": "#4DA2FF",
+    "aliases": ["sui"]
+  },
+  "zkBridge": {
+    "hex": "#8C5BF0",
+    "aliases": ["zkbridge"]
+  },
   "0-1": {
     "hex": "#4C8DF0",
     "aliases": ["0-1"]
@@ -81,7 +113,7 @@
   },
   "Celer Network": {
     "hex": "#00A3E0",
-    "aliases": ["celer network"]
+    "aliases": ["celer network", "celer"]
   },
   "Venus": {
     "hex": "#F2B33D",
@@ -661,7 +693,7 @@
   },
   "Circle": {
     "hex": "#2775CA",
-    "aliases": ["circle"]
+    "aliases": ["circle", "cctp"]
   },
   "Bitso": {
     "hex": "#14C9A8",
