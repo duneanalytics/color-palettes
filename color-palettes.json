@@ -19,6 +19,18 @@
     "hex": "#EA5247",
     "aliases": ["100k plus"]
   },
+  "Cards": {
+    "hex": "#4C8DF0",
+    "aliases": ["cards"]
+  },
+  "Agentic": {
+    "hex": "#2BC4B0",
+    "aliases": ["agentic"]
+  },
+  "Commerce": {
+    "hex": "#F2A03C",
+    "aliases": ["commerce"]
+  },
   "FTX": {
     "hex": "#11A9BC",
     "aliases": ["ftx"]
