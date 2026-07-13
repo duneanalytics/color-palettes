@@ -315,6 +315,14 @@
     "hex": "#C9B04B",
     "aliases": ["swapster"]
   },
+  "Steakhouse": {
+    "hex": "#913fe2",
+    "aliases": ["steakhouse"]
+  },
+  "Metamask": {
+    "hex": "#F6851B",
+    "aliases": ["metamask"]
+  },
   "Jupiter": {
     "hex": "#B6E84F",
     "aliases": ["jupiter"]
