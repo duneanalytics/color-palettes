@@ -1599,6 +1599,14 @@
     "hex": "#90019B",
     "aliases": ["tac"]
   },
+  "Monad": {
+    "hex": "#6E54FF",
+    "aliases": ["monad", "mon"]
+  },
+  "MegaETH": {
+    "hex": "#DFD9D9",
+    "aliases": ["megaeth", "mega"]
+  },
   "USDT": {
     "hex": "#26A17B",
     "aliases": ["usdt", "tether"]
